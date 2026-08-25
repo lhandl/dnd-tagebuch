@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+{{ partial "stil.html" . }}
+</head>
+<body>
+<header class="kopf">
+  <a class="heim" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+  <p class="untertitel">{{ .Site.Params.untertitel }}</p>
+</header>
+<main>{{ block "main" . }}{{ end }}</main>
+<footer class="fuss"><p>{{ now.Format "2006" }}</p></footer>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{{ define "main" }}
+<ul class="liste">
+{{ range (where .Site.RegularPages "Section" "posts") }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="meta">
+      {{ .Date.Format "2. January 2006" }}
+      {{ with .Params.ort }} · {{ . }}{{ end }}
+      {{ with .Params.tag_der_reise }} · Tag {{ . }}{{ end }}
+    </span>
+    <p class="anriss">{{ .Summary | plainify | truncate 180 }}</p>
+  </li>
+{{ else }}
+  <li><em>Noch kein Eintrag veröffentlicht.</em></li>
+{{ end }}
+</ul>
+{{ end }}

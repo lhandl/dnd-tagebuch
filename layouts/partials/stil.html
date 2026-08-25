@@ -1,0 +1,37 @@
+<style>
+:root{
+  --grund:#faf6ee; --tinte:#2b2521; --matt:#6d6259; --linie:#ded3c2; --akzent:#7a3b2e;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{ --grund:#1a1714; --tinte:#e8e0d4; --matt:#9d9287; --linie:#3a332c; --akzent:#c8836e; }
+}
+*{box-sizing:border-box}
+body{
+  margin:0; padding:0 1.25rem; background:var(--grund); color:var(--tinte);
+  font-family:var(--serif); font-size:1.0625rem; line-height:1.7;
+  -webkit-font-smoothing:antialiased;
+}
+.kopf,main,.fuss{max-width:38rem;margin:0 auto}
+.kopf{padding:3rem 0 1.25rem;border-bottom:1px solid var(--linie);margin-bottom:2.5rem;text-align:center}
+.heim{font-size:1.75rem;font-weight:600;color:var(--tinte);text-decoration:none;letter-spacing:.01em}
+.untertitel{margin:.4rem 0 0;color:var(--matt);font-style:italic;font-size:.95rem}
+a{color:var(--akzent)}
+.liste{list-style:none;padding:0;margin:0}
+.liste>li{padding:1.35rem 0;border-bottom:1px solid var(--linie)}
+.liste>li>a{font-size:1.2rem;font-weight:600;text-decoration:none;color:var(--tinte)}
+.liste>li>a:hover{color:var(--akzent)}
+.meta{display:block;margin-top:.3rem;color:var(--matt);font-size:.85rem;font-variant:small-caps;letter-spacing:.03em}
+.anriss{margin:.5rem 0 0;color:var(--matt);font-size:.95rem}
+.eintrag h1{font-size:1.9rem;line-height:1.25;margin:0 0 .35rem}
+.eintrag p{margin:0 0 1.15rem}
+.eintrag>.meta{margin-bottom:2rem;padding-bottom:1rem;border-bottom:1px solid var(--linie)}
+/* Erster Absatz ohne Einzug, folgende eingezogen - Tagebuch-Anmutung */
+.eintrag>p+p{text-indent:1.4em;margin-top:-1.15rem}
+blockquote{margin:1.5rem 0;padding-left:1rem;border-left:2px solid var(--linie);color:var(--matt);font-style:italic}
+.marken{margin-top:2.5rem;font-size:.8rem}
+.marken span{display:inline-block;margin-right:.5rem;padding:.15rem .5rem;border:1px solid var(--linie);border-radius:2px;color:var(--matt);font-variant:small-caps}
+.blaettern{display:flex;justify-content:space-between;gap:1rem;margin-top:2.5rem;padding-top:1.25rem;border-top:1px solid var(--linie);font-size:.9rem}
+.fuss{margin-top:4rem;padding:1.5rem 0;border-top:1px solid var(--linie);text-align:center;color:var(--matt);font-size:.8rem}
+img{max-width:100%;height:auto}
+</style>

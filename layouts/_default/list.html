@@ -1,0 +1,15 @@
+{{ define "main" }}
+<ul class="liste">
+{{ range .Paginator.Pages }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="meta">
+      {{ .Date.Format "2. January 2006" }}
+      {{ with .Params.ort }} · {{ . }}{{ end }}
+      {{ with .Params.tag_der_reise }} · Tag {{ . }}{{ end }}
+    </span>
+  </li>
+{{ end }}
+</ul>
+{{ template "_internal/pagination.html" . }}
+{{ end }}

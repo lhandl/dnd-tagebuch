@@ -1,0 +1,9 @@
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Arbeitsdateien - bleiben lokal, nie ins oeffentliche Repo:
+# CHARAKTER.md enthaelt Ziel, Angst und wunden Punkt der Figur (Spoiler fuer Mitspieler),
+# die QUELLE-Dateien das Rohtagebuch als Stilvorlage.
+CHARAKTER.md
+QUELLE-*.md

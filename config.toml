@@ -1,0 +1,23 @@
+# config.toml (nicht hugo.toml) — laeuft auch mit aelteren Hugo-Versionen.
+# baseURL wird beim Bau in der Action ueberschrieben; hier steht der Endzustand.
+baseURL = "https://lhandl.github.io/dnd-tagebuch/"
+languageCode = "de-at"
+title = "Tagebuch"
+
+buildDrafts = false
+enableEmoji = true
+removePathAccents = true
+
+[params]
+  untertitel = "Aufzeichnungen von unterwegs"
+  # Beitraege mit draft: true erscheinen erst nach 'draft: false'.
+
+[permalinks]
+  posts = "/eintrag/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  ort = "orte"
+
+[markup.goldmark.renderer]
+  unsafe = true
