@@ -2,7 +2,7 @@
 title: "Erlösung und die Kammer der Qual"
 date: 2026-08-22T09:00:00+02:00
 draft: false
-tags: ["Baldurs Tor", "Bhaal", "Torm", "Cassia", "Fitzbibel", "Draciar"]
+tags: ["Baldurs Tor", "Bhaal", "Torm", "Cassia", "Fizbibel", "Draciar"]
 zeit: "Ches 1492 DR"
 ort: "Die Folterkammern des Bhaal-Kults"
 stimmung: "Grimmiger Zorn, erfüllt von tiefer Trauer"
@@ -17,4 +17,4 @@ Bislang war dieser Kult für mich nur ein Nest von Mördern, doch nun sehe ich e
 
 Vendetta gab uns zudem einen entscheidenden Hinweis: Sie hatte Geräusche aus dem Norden gehört – das Reiben von Fels auf Fels. Cassia untersuchte die Wände und entdeckte tatsächlich einen Geheimgang. Dahinter hallten Schreie und der unverkennbare Lärm eines Kampfes zu uns herüber.
 
-Fitzbibel und der Rest der Gruppe blieben bei der verletzten Frau, während wir den Gang sicherten. Es war ein Moment der Entscheidung: Die Pflicht rief uns nach vorn, doch die Gnade gebot uns, die Unschuldigen nicht allein zu lassen.
+Fizbibel und der Rest der Gruppe blieben bei der verletzten Frau, während wir den Gang sicherten. Es war ein Moment der Entscheidung: Die Pflicht rief uns nach vorn, doch die Gnade gebot uns, die Unschuldigen nicht allein zu lassen.

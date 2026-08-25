@@ -2,16 +2,16 @@
 title: "Die Maske der Unschuld"
 date: 2026-08-19T09:00:00+02:00
 draft: false
-tags: ["Bhaal", "Rahima", "Cassia", "Fitzbibel", "Ganrek", "Draciar"]
+tags: ["Bhaal", "Rahima", "Cassia", "Fizbibel", "Ganrek", "Draciar"]
 zeit: "Ches 1492 DR"
 ort: "Der Bhaal-Trakt unter dem Badehaus"
 stimmung: "Erschüttert, voller Abscheu, doch eisern"
 ---
-Wir kehrten zum Badehaus zurück. Die Tore waren verschlossen, doch wir brauchten keine diplomatischen Lösungen mehr. Cassia ließ brachiale Gewalt walten und trat die Tür mit einer Wucht ein, die Fitzbibels Brecheisen in meiner Hand beinahe überflüssig machte. Es war mir nur recht – die Zeit der Vorsicht ist vorbei.
+Wir kehrten zum Badehaus zurück. Die Tore waren verschlossen, doch wir brauchten keine diplomatischen Lösungen mehr. Cassia ließ brachiale Gewalt walten und trat die Tür mit einer Wucht ein, die Fizbibels Brecheisen in meiner Hand beinahe überflüssig machte. Es war mir nur recht – die Zeit der Vorsicht ist vorbei.
 
 Wir stiegen wieder hinab in die Kanalisation, watend durch denselben Brackwassergestank wie zuvor, bis wir den Trakt erreichten, der Bhaal, dem Herrn des Mordes, gewidmet ist. Auf dem Weg dorthin stießen wir auf drei Zauberbücher. Während der Rest der Gruppe gierig auf das arkane Wissen starrte, schien nur Cassia in der Lage zu sein, auch nur ansatzweise zu verstehen, was in diesen staubigen Seiten geschrieben stand.
 
-Doch dann erreichten wir einen Kerkerraum. In den Schatten hinter Gittern sahen wir ein kleines Mädchen. Sie schluchzte, ein Bild reinster Hilflosigkeit. Mein Herz, das so viele Gräuel gesehen hat, konnte nicht anders. In mir kochte die Wut auf die Bestien hoch, die ein Kind an einen solchen Ort sperren würden. Mit Fitzbibels Brecheisen riss ich die Tür unmittelbar auf und stürmte hinein, um die Kleine tröstend auf den Arm zu nehmen.
+Doch dann erreichten wir einen Kerkerraum. In den Schatten hinter Gittern sahen wir ein kleines Mädchen. Sie schluchzte, ein Bild reinster Hilflosigkeit. Mein Herz, das so viele Gräuel gesehen hat, konnte nicht anders. In mir kochte die Wut auf die Bestien hoch, die ein Kind an einen solchen Ort sperren würden. Mit Fizbibels Brecheisen riss ich die Tür unmittelbar auf und stürmte hinein, um die Kleine tröstend auf den Arm zu nehmen.
 
 In genau diesem Augenblick hallte eine Warnung in meinem Kopf wider. Rahimas Stimme: "Vertraue ihr auf keinen Fall!"
 

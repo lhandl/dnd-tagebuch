@@ -13,4 +13,4 @@ Dort, im Tempel, bereiteten wir uns auf das vor, was kommen muss. Mortlock Vanth
 
 Doch das Wichtigste, was wir aus dem Verlies mitbrachten, sind die Siegel der Flammenden Faust. Mortlock versicherte uns, dass diese Embleme uns den Weg durch die schweren Tore in die Oberstadt ebnen werden – vorbei an den arroganten Wachen, die uns zuvor den Zugang verwehrten.
 
-Wir stehen nun am Fuße der Treppen, die nach oben führen. Von der Kanalisation zum Luxus, vom Schlamm zum Hochmut. Das Haus Vanthampur mag sich hinter Mauern und Titeln sicher fühlen, aber sie haben vergessen, dass der Orden der Rache niemals ruht. Die Siegel brennen förmlich in meinen Händen. Sie waren einst ein Zeichen der Korruption, doch heute werden sie zu unserem Werkzeug der Gerechtigkeit.
+Wir stehen nun am Fuße der Treppen, die nach oben führen. Von der Kanalisation zum Luxus, vom Schlamm zum Hochmut. Das Haus Vanthampur mag sich hinter Mauern und Titeln sicher fühlen, aber sie haben vergessen, dass der Eid der Rache niemals ruht. Die Siegel brennen förmlich in meinen Händen. Sie waren einst ein Zeichen der Korruption, doch heute werden sie zu unserem Werkzeug der Gerechtigkeit.
