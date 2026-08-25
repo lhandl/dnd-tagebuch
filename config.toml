@@ -2,14 +2,14 @@
 # baseURL wird beim Bau in der Action ueberschrieben; hier steht der Endzustand.
 baseURL = "https://lhandl.github.io/dnd-tagebuch/"
 languageCode = "de-at"
-title = "Thalions Tagebuch"
+title = "Die Chronik des Himmelszorns"
 
 buildDrafts = false
 enableEmoji = true
 removePathAccents = true
 
 [params]
-  untertitel = "Die Chronik des Himmelszorns"
+  untertitel = "Aufzeichnungen des Thalion Himmelszorn"
   # Kurzer Geleittext auf der Startseite. Steht in Thalions Stimme; frei änderbar,
   # ohne dass ein Layout angefasst werden muss.
   geleit = "Ich bin Thalion Himmelszorn, Hochelf und Paladin des Ordens des Panzerhandschuhs. Ich habe den Eid der Rache geschworen. Was hier steht, ist kein Heldenlied — es sind die Nächte unter Baldurs Tor, der Gestank der Katakomben und die Namen derer, die ich nicht retten konnte."
