@@ -30,8 +30,15 @@ dagegen, BEVOR ein Eintrag abgegeben wird.
     date:   YYYY-MM-DDTHH:MM:SS+02:00
     draft:  true
     tags:   [ort, person, thema]
+    zeit:   Monat und Jahr der Spielwelt, z. B. "Ches 1492"
     ort:    Wo der Eintrag geschrieben wurde
-    tag_der_reise: Fortlaufender Zähler im Spiel (Zahl)
+    stimmung: Gemütslage in zwei bis drei Worten
     ---
+
+`date` ist die Sortierachse und wird nie angezeigt; sichtbar ist `zeit`. Tage
+werden bewusst nicht geführt — im Spiel tragen sie nichts, und der Text sagt
+ohnehin „gestern" und „am Morgen" statt eines Datums. Ein Rückblick, der nicht
+in der laufenden Handlung liegt, trägt statt eines Monats das Wort „Rückblick";
+wie lange er zurückliegt, legt das Tagebuch bewusst nicht fest.
 
 `draft: true` ist Vorgabe. Ein Eintrag wird erst nach deiner Durchsicht veröffentlicht.

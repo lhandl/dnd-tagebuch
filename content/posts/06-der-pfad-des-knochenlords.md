@@ -3,6 +3,7 @@ title: "Der Pfad des Knochenlords"
 date: 2026-08-18T20:00:00+02:00
 draft: false
 tags: ["Myrkul"]
+zeit: "Ches 1492"
 ort: "Der Myrkul-Trakt der Katakomben, Baldurs Tor"
 stimmung: "Kalt und unerbittlich"
 ---
