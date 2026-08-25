@@ -1,17 +1,11 @@
 {{ define "main" }}
-<ul class="liste">
-{{ range (where .Site.RegularPages "Section" "posts") }}
-  <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-    <span class="meta">
-      {{ partial "datum.html" .Date }}
-      {{ with .Params.ort }} · {{ . }}{{ end }}
-      {{ with .Params.tag_der_reise }} · Tag {{ . }}{{ end }}
-    </span>
-    <p class="anriss">{{ .Summary | plainify | truncate 180 }}</p>
-  </li>
+{{ $eintraege := where .Site.RegularPages "Section" "posts" }}
+<h2 class="vh">Die Einträge</h2>
+<ul class="chronik">
+{{ range $eintraege }}
+  {{ partial "chronik-eintrag.html" . }}
 {{ else }}
-  <li><em>Noch kein Eintrag veröffentlicht.</em></li>
+  <li class="verschollen"><p>Noch kein Eintrag veröffentlicht. Die Tinte ist noch feucht.</p></li>
 {{ end }}
 </ul>
 {{ end }}

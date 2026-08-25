@@ -3,15 +3,45 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ if .Site.Params.untertitel }} — {{ .Site.Params.untertitel }}{{ end }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+
+{{- $beschreibung := "" -}}
+{{- with .Description }}{{ $beschreibung = . }}
+{{- else }}{{ if .IsHome }}{{ $beschreibung = .Site.Params.beschreibung }}{{ else if .Summary }}{{ $beschreibung = (.Summary | plainify | truncate 180) }}{{ else }}{{ $beschreibung = .Site.Params.beschreibung }}{{ end }}{{ end -}}
+<meta name="description" content="{{ $beschreibung }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f3e9d6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15120e" media="(prefers-color-scheme: dark)">
+
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:description" content="{{ $beschreibung }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:locale" content="de_AT">
+{{- if .IsPage }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+{{- end }}
+<meta name="twitter:card" content="summary">
+
+<link rel="icon" href="{{ "wappen.svg" | relURL }}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ "wappen-180.png" | relURL }}">
+<link rel="preload" href="{{ "schriften/eb-garamond-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ "schriften/cinzel-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+{{- with .Site.Home.OutputFormats.Get "rss" }}
+<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+{{- end }}
 {{ partial "stil.html" . }}
 </head>
 <body>
-<header class="kopf">
-  <a class="heim" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-  <p class="untertitel">{{ .Site.Params.untertitel }}</p>
-</header>
-<main>{{ block "main" . }}{{ end }}</main>
-<footer class="fuss"><p>{{ now.Format "2006" }}</p></footer>
+<a class="sprung" href="#inhalt">Zum Inhalt springen</a>
+<div class="band">
+  <div class="blatt">
+    {{ partial "kopf.html" . }}
+    <main id="inhalt">{{ block "main" . }}{{ end }}</main>
+  </div>
+  {{ partial "fuss.html" . }}
+</div>
 </body>
 </html>

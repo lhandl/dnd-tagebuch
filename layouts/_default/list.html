@@ -1,15 +1,19 @@
 {{ define "main" }}
-<ul class="liste">
-{{ range .Paginator.Pages }}
-  <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-    <span class="meta">
-      {{ partial "datum.html" .Date }}
-      {{ with .Params.ort }} · {{ . }}{{ end }}
-      {{ with .Params.tag_der_reise }} · Tag {{ . }}{{ end }}
-    </span>
-  </li>
+{{ $seiten := .Paginator.Pages }}
+<header class="seitenkopf">
+  <span class="rubrik">{{ if eq .Kind "taxonomy" }}{{ if eq .Data.Singular "ort" }}Ort{{ else }}Schlagwort{{ end }}{{ else }}Übersicht{{ end }}</span>
+  <h1>{{ .Title }}</h1>
+  <p>{{ len $seiten }} {{ if eq (len $seiten) 1 }}Eintrag{{ else }}Einträge{{ end }}</p>
+</header>
+{{ partial "ornament.html" "schmal" }}
+<ul class="chronik">
+{{ range $seiten }}
+  {{ partial "chronik-eintrag.html" . }}
+{{ else }}
+  <li class="verschollen"><p>Hier ist nichts verzeichnet.</p></li>
 {{ end }}
 </ul>
-{{ template "_internal/pagination.html" . }}
+{{ if gt .Paginator.TotalPages 1 }}
+<div class="blaetterwerk">{{ template "_internal/pagination.html" . }}</div>
+{{ end }}
 {{ end }}

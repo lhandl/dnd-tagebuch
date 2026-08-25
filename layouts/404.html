@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="verschollen">
+  <span class="rubrik">Seite 404</span>
+  <h1>Im Nebel verschollen</h1>
+  {{ partial "ornament.html" "schmal" }}
+  <p>Dieses Blatt ist nicht in der Chronik. Vielleicht hat es der Wind aus dem Band gerissen, vielleicht wurde es nie geschrieben.</p>
+  <p><a class="weiterlesen" href="{{ .Site.Home.RelPermalink }}">Zurück zur Chronik</a></p>
+</div>
+{{ end }}

@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{- $ist_ort := eq .Data.Singular "ort" -}}
+<header class="seitenkopf">
+  <span class="rubrik">Register</span>
+  <h1>{{ if $ist_ort }}Orte{{ else }}Schlagworte{{ end }}</h1>
+  <p>{{ if $ist_ort }}Wo die Einträge geschrieben wurden.{{ else }}Woran sich Thalion abarbeitet.{{ end }}</p>
+</header>
+{{ partial "ornament.html" "schmal" }}
+<ul class="begriffe">
+{{ range .Data.Terms.Alphabetical }}
+  <li>
+    <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="anzahl">{{ .Count }}</span></a>
+  </li>
+{{ end }}
+</ul>
+{{ end }}

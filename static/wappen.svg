@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Ordenszeichen">
+  <g fill="none" stroke="#a8862c" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 3.4 27 7v9c0 6.9-5 12-11 14.6C10 28 5 22.9 5 16V7Z"/>
+    <path d="M16 9.2v13.9"/>
+    <path d="M11.7 13.2h8.6"/>
+    <path d="M13.6 25.4h4.8"/>
+  </g>
+</svg>

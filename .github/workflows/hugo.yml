@@ -25,7 +25,7 @@ jobs:
   bauen:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.134.3
+      HUGO_VERSION: 0.148.2
     steps:
       - name: Hugo einrichten
         run: |

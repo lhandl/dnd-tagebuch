@@ -1,17 +1,67 @@
 {{ define "main" }}
+{{- $nr := partial "nummer.html" . -}}
+{{- $alle := sort (where .Site.RegularPages "Section" "posts") "Date" -}}
+{{- $i := -1 -}}
+{{- range $k, $p := $alle }}{{ if eq $p.RelPermalink $.RelPermalink }}{{ $i = $k }}{{ end }}{{ end -}}
+{{- $frueher := "" -}}{{- if gt $i 0 }}{{ $frueher = index $alle (sub $i 1) }}{{ end -}}
+{{- $spaeter := "" -}}{{- if and (ge $i 0) (lt $i (sub (len $alle) 1)) }}{{ $spaeter = index $alle (add $i 1) }}{{ end -}}
+
 <article class="eintrag">
+  <span class="siegel siegel--gross" aria-hidden="true">{{ partial "roemisch.html" $nr }}</span>
+  <span class="rubrik"><span class="vh">{{ $nr }}. Eintrag der Chronik</span><span aria-hidden="true">{{ partial "roemisch.html" $nr }}. Eintrag der Chronik</span></span>
   <h1>{{ .Title }}</h1>
-  <p class="meta">
-    {{ partial "datum.html" .Date }}
-    {{ with .Params.ort }} · {{ . }}{{ end }}
-    {{ with .Params.tag_der_reise }} · Tag {{ . }} der Reise{{ end }}
-  </p>
-  {{ with .Params.stimmung }}<p class="stimmung">{{ . }}</p>{{ end }}
-  {{ .Content }}
-  {{ with .Params.tags }}<p class="marken">{{ range . }}<span>{{ . }}</span>{{ end }}</p>{{ end }}
-  <nav class="blaettern">
-    {{ with .PrevInSection }}<a href="{{ .Permalink }}">← {{ .Title }}</a>{{ end }}
-    {{ with .NextInSection }}<a href="{{ .Permalink }}">{{ .Title }} →</a>{{ end }}
+
+  <dl class="kopfdaten">
+    <div>
+      <dt>Niedergeschrieben</dt>
+      <dd><time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "datum.html" .Date }}</time></dd>
+    </div>
+    {{ with .Params.ort }}
+    <div>
+      <dt>Ort</dt>
+      <dd>{{ . }}</dd>
+    </div>
+    {{ end }}
+    {{ with .Params.stimmung }}
+    <div class="breit">
+      <dt>Stimmung</dt>
+      <dd class="stimmung">{{ . }}</dd>
+    </div>
+    {{ end }}
+  </dl>
+
+  <div class="text">
+    {{ .Content }}
+  </div>
+
+  {{ partial "ornament.html" "schmal" }}
+
+  {{ with .GetTerms "tags" }}
+  <section class="marken">
+    <h2>Verzeichnet unter</h2>
+    <ul>
+      {{ range . }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
+  <nav class="blaettern" aria-label="Weitere Einträge">
+    <div class="zurueck">
+      {{ with $frueher }}
+      <a href="{{ .RelPermalink }}" rel="prev">
+        <span class="richtung kapitale">‹ Früherer Eintrag</span>
+        <span class="titel">{{ .Title }}</span>
+      </a>
+      {{ end }}
+    </div>
+    <div class="vor">
+      {{ with $spaeter }}
+      <a href="{{ .RelPermalink }}" rel="next">
+        <span class="richtung kapitale">Späterer Eintrag ›</span>
+        <span class="titel">{{ .Title }}</span>
+      </a>
+      {{ end }}
+    </div>
   </nav>
 </article>
 {{ end }}

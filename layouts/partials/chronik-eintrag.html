@@ -1,0 +1,22 @@
+{{- /* Ein Eintrag in einer Übersicht.
+       Das Siegel trägt die Nummer als römische Zahl; Vorlesewerkzeuge
+       bekommen dieselbe Nummer als Ziffer, weil „VI“ sonst buchstabiert wird. */ -}}
+{{- $nr := partial "nummer.html" . -}}
+<li>
+  <article class="blatt-kopf">
+    <span class="siegel">
+      <span class="vh">Eintrag {{ $nr }}</span>
+      <span aria-hidden="true">{{ partial "roemisch.html" $nr }}</span>
+    </span>
+    <div class="blatt-inhalt">
+      <h2 class="blatt-ueberschrift"><a class="blatt-titel" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p class="zeile-meta">
+        <span class="kapitale">{{ partial "datum.html" .Date }}</span>
+        {{ with .Params.ort }}<span class="ort">{{ . }}</span>{{ end }}
+      </p>
+      {{ with .Params.stimmung }}<p class="stimmung-zeile">{{ . }}</p>{{ end }}
+      <p class="anriss">{{ .Summary | plainify | truncate 190 }}</p>
+      <a class="weiterlesen" href="{{ .RelPermalink }}">Weiterlesen<span class="vh"> — {{ .Title }}</span></a>
+    </div>
+  </article>
+</li>

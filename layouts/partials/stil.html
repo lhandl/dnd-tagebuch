@@ -1,38 +1,446 @@
 <style>
+/* ============================================================
+   Thalions Tagebuch — Gestaltung
+   Aufbau:  1 Schriften · 2 Token · 3 Grundgerüst · 4 Typografie
+            5 Bausteine · 6 Zustände (Fokus, Bewegung, Druck)
+   Regel:   Farben, Abstände und Schriftgrade kommen aus den
+            Token in Abschnitt 2. Keine losen Werte im Rest.
+   ============================================================ */
+
+/* ---- 1 Schriften -------------------------------------------
+   Selbst gehostet unter /schriften/, auf den benötigten
+   Zeichenvorrat verkleinert. Keine Verbindung zu Dritten.     */
+@font-face{
+  font-family:"EB Garamond";font-style:normal;font-weight:400 700;font-display:swap;
+  src:url("{{ "schriften/eb-garamond-normal.woff2" | relURL }}") format("woff2");
+}
+@font-face{
+  font-family:"EB Garamond";font-style:italic;font-weight:400 700;font-display:swap;
+  src:url("{{ "schriften/eb-garamond-italic.woff2" | relURL }}") format("woff2");
+}
+@font-face{
+  font-family:"Cinzel";font-style:normal;font-weight:400 900;font-display:swap;
+  src:url("{{ "schriften/cinzel-normal.woff2" | relURL }}") format("woff2");
+}
+
+/* ---- 2 Token ----------------------------------------------- */
 :root{
-  --grund:#faf6ee; --tinte:#2b2521; --matt:#6d6259; --linie:#ded3c2; --akzent:#7a3b2e;
-  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  /* Grundwerte (primitiv) */
+  --pergament-100:#fbf5e9; --pergament-200:#f3e9d6;
+  --pergament-400:#d9c9ad; --pergament-600:#c3ab79;
+  --leder-900:#15120e;     --leder-800:#1e1a15;
+  --russ-900:#241d15;      --russ-600:#5c4b39;
+  --rost-700:#8a2b1c;      --rost-400:#e08d6f;
+  --gold-700:#7a5a15;      --gold-500:#a8862c;  --gold-300:#d4ad5f;
+
+  /* Bedeutung (semantisch) */
+  --grund:var(--pergament-200);
+  --flaeche:var(--pergament-100);
+  --tinte:var(--russ-900);
+  --matt:var(--russ-600);
+  --linie:var(--pergament-400);
+  --linie-stark:var(--pergament-600);
+  --akzent:var(--rost-700);
+  --akzent-hell:#a33422;
+  --gold:var(--gold-500);
+  --gold-schrift:var(--gold-700);
+  --fokus:var(--rost-700);
+  --fokus-kontur:var(--pergament-100);
+  --schatten:0 1px 2px rgba(70,48,20,.06), 0 8px 28px rgba(70,48,20,.10);
+  --kante:inset 0 0 60px rgba(120,90,45,.09);
+  --textur-mischung:soft-light;
+
+  /* Schrift */
+  --brotschrift:"EB Garamond","Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  --zierschrift:"Cinzel","Trajan Pro","Optima","Palatino Linotype",Georgia,serif;
+  --grad-brot:clamp(1.125rem,1.045rem + .40vw,1.3125rem);
+  --grad-klein:clamp(.94rem,.90rem + .18vw,1rem);
+  --grad-winzig:clamp(.70rem,.68rem + .10vw,.775rem);
+  --grad-h1:clamp(1.85rem,1.35rem + 2.3vw,2.85rem);
+  --grad-h2:clamp(1.3rem,1.15rem + .7vw,1.6rem);
+  --sperrung:.17em;
+
+  /* Maße */
+  --mass:34rem;          /* Satzbreite des Fließtextes */
+  --band:46rem;          /* Breite des Blattes         */
+  --luft-1:.4rem; --luft-2:.8rem; --luft-3:1.35rem;
+  --luft-4:2.2rem; --luft-5:3.4rem; --luft-6:5rem;
+  --radius:2px;
 }
+
 @media (prefers-color-scheme:dark){
-  :root{ --grund:#1a1714; --tinte:#e8e0d4; --matt:#9d9287; --linie:#3a332c; --akzent:#c8836e; }
+  :root{
+    --grund:var(--leder-900);
+    --flaeche:var(--leder-800);
+    --tinte:#e9dfcb;
+    --matt:#a4917a;
+    --linie:#3a3228;
+    --linie-stark:#574a37;
+    --akzent:var(--rost-400);
+    --akzent-hell:#f2a98c;
+    --gold:var(--gold-300);
+    --gold-schrift:var(--gold-300);
+    --fokus:var(--gold-300);
+    --fokus-kontur:var(--leder-900);
+    --schatten:0 2px 4px rgba(0,0,0,.35), 0 14px 40px rgba(0,0,0,.45);
+    --kante:inset 0 0 70px rgba(0,0,0,.55);
+    --textur-mischung:soft-light;
+  }
 }
-*{box-sizing:border-box}
+
+/* ---- 3 Grundgerüst ----------------------------------------- */
+*,*::before,*::after{box-sizing:border-box}
+html{
+  color-scheme:light dark;
+  background-color:var(--grund);
+  background-image:url("{{ "pergament.webp" | relURL }}");
+  background-size:340px 340px;
+  background-blend-mode:var(--textur-mischung);
+}
 body{
-  margin:0; padding:0 1.25rem; background:var(--grund); color:var(--tinte);
-  font-family:var(--serif); font-size:1.0625rem; line-height:1.7;
+  margin:0;padding:0 clamp(.75rem,3vw,2rem) var(--luft-5);
+  color:var(--tinte);
+  font-family:var(--brotschrift);
+  font-size:var(--grad-brot);
+  line-height:1.72;
+  font-variant-numeric:oldstyle-nums;
+  text-rendering:optimizeLegibility;
   -webkit-font-smoothing:antialiased;
 }
-.kopf,main,.fuss{max-width:38rem;margin:0 auto}
-.kopf{padding:3rem 0 1.25rem;border-bottom:1px solid var(--linie);margin-bottom:2.5rem;text-align:center}
-.heim{font-size:1.75rem;font-weight:600;color:var(--tinte);text-decoration:none;letter-spacing:.01em}
-.untertitel{margin:.4rem 0 0;color:var(--matt);font-style:italic;font-size:.95rem}
-a{color:var(--akzent)}
-.liste{list-style:none;padding:0;margin:0}
-.liste>li{padding:1.35rem 0;border-bottom:1px solid var(--linie)}
-.liste>li>a{font-size:1.2rem;font-weight:600;text-decoration:none;color:var(--tinte)}
-.liste>li>a:hover{color:var(--akzent)}
-.meta{display:block;margin-top:.3rem;color:var(--matt);font-size:.85rem;font-variant:small-caps;letter-spacing:.03em}
-.anriss{margin:.5rem 0 0;color:var(--matt);font-size:.95rem}
-.eintrag h1{font-size:1.9rem;line-height:1.25;margin:0 0 .35rem}
-.eintrag p{margin:0 0 1.15rem}
-.eintrag>.meta{margin-bottom:.75rem}
-.stimmung{margin:0 0 2rem;padding-bottom:1.25rem;border-bottom:1px solid var(--linie);color:var(--matt);font-style:italic;font-size:.95rem}
-/* Erster Absatz ohne Einzug, folgende eingezogen - Tagebuch-Anmutung */
-.eintrag>p+p{text-indent:1.4em;margin-top:-1.15rem}
-blockquote{margin:1.5rem 0;padding-left:1rem;border-left:2px solid var(--linie);color:var(--matt);font-style:italic}
-.marken{margin-top:2.5rem;font-size:.8rem}
-.marken span{display:inline-block;margin-right:.5rem;padding:.15rem .5rem;border:1px solid var(--linie);border-radius:2px;color:var(--matt);font-variant:small-caps}
-.blaettern{display:flex;justify-content:space-between;gap:1rem;margin-top:2.5rem;padding-top:1.25rem;border-top:1px solid var(--linie);font-size:.9rem}
-.fuss{margin-top:4rem;padding:1.5rem 0;border-top:1px solid var(--linie);text-align:center;color:var(--matt);font-size:.8rem}
-img{max-width:100%;height:auto}
+.band{max-width:var(--band);margin:0 auto}
+
+/* Das Blatt: die Seite, auf der geschrieben wird */
+.blatt{
+  position:relative;
+  margin-top:clamp(1rem,4vw,3rem);
+  padding:clamp(1.6rem,5vw,3.6rem) clamp(1.15rem,5vw,3.6rem) clamp(2.4rem,6vw,4rem);
+  background:var(--flaeche);
+  border:1px solid var(--linie-stark);
+  border-radius:var(--radius);
+  box-shadow:var(--schatten),var(--kante);
+}
+/* zweite, feinere Linie innen — Anmutung eines gebundenen Bandes */
+.blatt::before{
+  content:"";position:absolute;inset:6px;
+  border:1px solid var(--linie);
+  border-radius:var(--radius);
+  pointer-events:none;
+}
+@media (max-width:29rem){
+  .blatt::before{inset:4px}
+}
+
+/* ---- 4 Typografie ------------------------------------------ */
+h1,h2,h3,.zier{
+  font-family:var(--zierschrift);
+  font-weight:600;
+  line-height:1.15;
+  letter-spacing:.005em;
+  text-wrap:balance;
+  margin:0;
+}
+h1{font-size:var(--grad-h1)}
+h2{font-size:var(--grad-h2)}
+p{margin:0 0 var(--luft-3)}
+a{color:var(--akzent);text-underline-offset:.18em;text-decoration-thickness:.05em}
+a:hover{color:var(--akzent-hell)}
+strong{font-weight:700}
+em{font-style:italic}
+::selection{background:color-mix(in srgb,var(--gold) 40%,transparent)}
+
+/* Kleinschrift in Versalien — Datum, Ort, Rubriken */
+.kapitale{
+  font-family:var(--zierschrift);
+  font-size:var(--grad-winzig);
+  font-weight:500;
+  text-transform:uppercase;
+  letter-spacing:var(--sperrung);
+  color:var(--matt);
+  line-height:1.5;
+}
+
+/* ---- 5 Bausteine ------------------------------------------- */
+
+/* 5.0 Nur für Vorlesewerkzeuge sichtbar */
+.vh{
+  position:absolute;width:1px;height:1px;padding:0;margin:-1px;
+  overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);
+  white-space:nowrap;border:0;
+}
+
+/* 5.1 Sprungmarke */
+.sprung{
+  position:absolute;left:-9999px;top:0;
+  background:var(--flaeche);color:var(--akzent);
+  padding:.75rem 1.25rem;border:1px solid var(--linie-stark);
+  z-index:10;
+}
+.sprung:focus{left:1rem;top:1rem;position:fixed}
+
+/* 5.2 Wappen */
+.wappen{display:block;width:100%;height:100%;fill:none;stroke:currentColor}
+.wappen-kreis{
+  display:grid;place-items:center;
+  width:var(--w,3.1rem);height:var(--w,3.1rem);
+  margin:0 auto;color:var(--gold);
+}
+
+/* 5.3 Kopf */
+.kopf{text-align:center;margin-bottom:var(--luft-4)}
+.kopf-titel{
+  display:inline-block;
+  font-family:var(--zierschrift);
+  font-weight:600;
+  text-transform:uppercase;
+  letter-spacing:.14em;
+  text-decoration:none;
+  color:var(--tinte);
+}
+.kopf-titel:hover{color:var(--akzent)}
+.kopf--gross{margin-bottom:var(--luft-5)}
+.kopf--gross .kopf-titel{font-size:clamp(1.5rem,1.05rem + 2.1vw,2.35rem);line-height:1.2}
+.kopf--klein{margin-bottom:var(--luft-4)}
+.kopf--klein .kopf-titel{font-size:clamp(.82rem,.78rem + .3vw,.95rem);letter-spacing:var(--sperrung)}
+.kopf--klein .wappen-kreis{--w:2rem;margin-bottom:.55rem}
+.untertitel{
+  margin:.7rem auto 0;max-width:26rem;
+  font-style:italic;font-size:var(--grad-klein);color:var(--matt);
+}
+/* Thalions eigene Stimme: linksbündig, schmale Spalte, goldene Randlinie.
+   Dieselbe Auszeichnung wie die Stimmungszeile — gleiche Bedeutung,
+   gleiches Zeichen. Zentrierter Flattersatz über mehrere Zeilen wäre unruhig. */
+.geleit{
+  margin:var(--luft-3) auto 0;max-width:27rem;
+  padding-left:1rem;
+  border-left:2px solid color-mix(in srgb,var(--gold) 60%,transparent);
+  text-align:left;
+  font-size:var(--grad-klein);color:var(--matt);line-height:1.72;
+  hyphens:auto;-webkit-hyphens:auto;
+}
+
+/* 5.4 Ornament */
+.ornament{
+  display:flex;align-items:center;gap:.8rem;
+  margin:var(--luft-4) auto;max-width:20rem;color:var(--gold);
+}
+.ornament .strich{flex:1;height:1px;background:currentColor;opacity:.55}
+.ornament .raute{
+  width:7px;height:7px;transform:rotate(45deg);
+  border:1px solid currentColor;background:currentColor;
+}
+.ornament .raute + .raute{opacity:.5}
+.ornament--schmal{max-width:9rem;margin:var(--luft-3) auto}
+
+/* 5.5 Siegel mit Eintragsnummer */
+.siegel{
+  display:grid;place-items:center;
+  width:2.9rem;height:2.9rem;flex:0 0 auto;
+  border:1px solid var(--gold);border-radius:50%;
+  box-shadow:0 0 0 3px var(--flaeche),0 0 0 4px color-mix(in srgb,var(--gold) 45%,transparent);
+  font-family:var(--zierschrift);font-weight:600;font-size:.82rem;
+  letter-spacing:.04em;color:var(--gold-schrift);
+  background:color-mix(in srgb,var(--gold) 9%,transparent);
+}
+.siegel--gross{width:3.6rem;height:3.6rem;font-size:1rem;margin:0 auto var(--luft-2)}
+
+/* 5.6 Chronik-Liste */
+.chronik{list-style:none;margin:0;padding:0}
+.chronik > li{padding:var(--luft-4) 0}
+.chronik > li + li{border-top:1px solid var(--linie)}
+.chronik > li:first-child{padding-top:var(--luft-2)}
+.blatt-kopf{display:flex;align-items:flex-start;gap:1.1rem}
+.blatt-kopf .siegel{margin-top:.2rem}
+.blatt-titel{
+  font-family:var(--zierschrift);font-weight:600;
+  font-size:clamp(1.18rem,1.08rem + .5vw,1.45rem);line-height:1.25;
+  color:var(--tinte);text-decoration:none;display:block;text-wrap:balance;
+}
+.blatt-titel:hover{color:var(--akzent);text-decoration:underline;text-decoration-thickness:.05em}
+.blatt-inhalt{min-width:0}
+.blatt-ueberschrift{margin:0;font-size:inherit;font-weight:inherit}
+.zeile-meta{margin:.42rem 0 0;line-height:1.5}
+.zeile-meta .ort{
+  font-size:var(--grad-klein);font-style:italic;color:var(--matt);
+}
+.zeile-meta .ort::before{content:"·";margin:0 .45em;font-style:normal;opacity:.7}
+@media (max-width:34rem){
+  .zeile-meta .ort{display:block}
+  .zeile-meta .ort::before{content:none}
+}
+.stimmung-zeile{
+  margin:.7rem 0 0;padding-left:.85rem;
+  border-left:2px solid color-mix(in srgb,var(--gold) 60%,transparent);
+  font-style:italic;color:var(--matt);font-size:var(--grad-klein);line-height:1.5;
+}
+.anriss{margin:var(--luft-2) 0 0;color:var(--tinte);opacity:.86;max-width:var(--mass)}
+.weiterlesen{
+  display:inline-flex;align-items:center;min-height:1.55rem;
+  margin-top:.45rem;
+  font-family:var(--zierschrift);font-size:var(--grad-winzig);
+  text-transform:uppercase;letter-spacing:var(--sperrung);
+  text-decoration:none;color:var(--akzent);
+}
+.weiterlesen:hover{text-decoration:underline;text-underline-offset:.3em}
+.weiterlesen::after{content:" \203A"}
+@media (max-width:32rem){
+  .blatt-kopf{gap:.85rem}
+  .siegel{width:2.4rem;height:2.4rem;font-size:.72rem}
+}
+
+/* 5.7 Ein Eintrag */
+.rubrik{
+  display:block;text-align:center;color:var(--gold-schrift);
+  font-family:var(--zierschrift);font-size:var(--grad-winzig);
+  text-transform:uppercase;letter-spacing:var(--sperrung);
+  margin-bottom:var(--luft-2);
+}
+.eintrag > h1{text-align:center;margin-bottom:var(--luft-3)}
+
+/* Kopfdaten: Datum, Ort, Stimmung */
+.kopfdaten{
+  margin:0 auto var(--luft-4);max-width:var(--mass);
+  padding:var(--luft-3) 0;
+  border-top:1px solid var(--linie);border-bottom:1px solid var(--linie);
+  display:grid;gap:.9rem 2rem;
+  grid-template-columns:repeat(auto-fit,minmax(12.5rem,1fr));
+}
+.kopfdaten .breit{grid-column:1 / -1}
+.kopfdaten > div{min-width:0}
+.kopfdaten dt{
+  font-family:var(--zierschrift);font-size:var(--grad-winzig);font-weight:500;
+  text-transform:uppercase;letter-spacing:var(--sperrung);color:var(--matt);
+  margin-bottom:.15rem;
+}
+.kopfdaten dd{margin:0;font-size:var(--grad-klein);line-height:1.5}
+.kopfdaten .stimmung{font-style:italic;font-size:var(--grad-brot);line-height:1.45;color:var(--tinte)}
+
+/* Fließtext */
+.text{max-width:var(--mass);margin:0 auto;hyphens:auto;-webkit-hyphens:auto}
+.text > p:first-of-type::first-letter{
+  float:left;
+  font-family:var(--zierschrift);font-weight:600;
+  font-size:3.5em;line-height:.82;
+  padding:.085em .04em 0 0;
+  color:var(--gold-schrift);
+}
+.text > p:first-of-type::after{content:"";display:block;clear:both}
+.text h2,.text h3{margin:var(--luft-4) 0 var(--luft-2)}
+.text blockquote{
+  margin:var(--luft-3) 0;padding:.2rem 0 .2rem 1.4rem;
+  border-left:2px solid var(--gold);
+  font-style:italic;color:var(--matt);
+}
+.text blockquote p:last-child{margin-bottom:0}
+.text hr{
+  border:0;height:1px;background:var(--linie);
+  margin:var(--luft-4) auto;max-width:14rem;
+}
+.text ul,.text ol{padding-left:1.3rem;margin:0 0 var(--luft-3)}
+.text li{margin-bottom:.35rem}
+.text img{max-width:100%;height:auto;border-radius:var(--radius)}
+.text code{font-size:.9em;background:color-mix(in srgb,var(--matt) 12%,transparent);padding:.05em .3em;border-radius:var(--radius)}
+
+/* Marken (Schlagworte) */
+.marken{
+  max-width:var(--mass);margin:var(--luft-5) auto 0;
+  padding-top:var(--luft-3);border-top:1px solid var(--linie);
+}
+.marken h2{
+  font-size:var(--grad-winzig);font-weight:500;color:var(--matt);
+  text-transform:uppercase;letter-spacing:var(--sperrung);margin-bottom:.7rem;
+}
+.marken ul{list-style:none;display:flex;flex-wrap:wrap;gap:.45rem;margin:0;padding:0}
+.marken a{
+  display:inline-flex;align-items:center;min-height:1.75rem;
+  padding:.2rem .7rem;
+  border:1px solid var(--linie-stark);border-radius:var(--radius);
+  font-family:var(--zierschrift);font-size:var(--grad-winzig);
+  text-transform:uppercase;letter-spacing:.09em;
+  color:var(--matt);text-decoration:none;
+}
+.marken a:hover{color:var(--akzent);border-color:var(--akzent)}
+
+/* Blättern */
+.blaettern{
+  max-width:var(--mass);margin:var(--luft-5) auto 0;
+  padding-top:var(--luft-3);border-top:1px solid var(--linie);
+  display:grid;gap:1.4rem;grid-template-columns:1fr 1fr;
+}
+.blaettern a{
+  display:block;text-decoration:none;color:var(--tinte);
+  padding:.2rem 0;
+}
+.blaettern .richtung{display:block;color:var(--matt)}
+.blaettern .titel{
+  font-family:var(--zierschrift);font-size:var(--grad-klein);
+  line-height:1.3;display:block;margin-top:.3rem;
+}
+.blaettern a:hover .titel{color:var(--akzent)}
+.blaettern .vor{text-align:right}
+@media (max-width:32rem){
+  .blaettern{grid-template-columns:1fr;gap:1rem}
+  .blaettern .vor{text-align:left}
+}
+
+/* Übersichtsseiten */
+.seitenkopf{text-align:center;margin-bottom:var(--luft-4)}
+.seitenkopf p{margin:.6rem 0 0;color:var(--matt);font-size:var(--grad-klein);font-style:italic}
+.begriffe{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.6rem;justify-content:center}
+.begriffe a{
+  display:inline-flex;align-items:baseline;gap:.45rem;min-height:2rem;
+  padding:.35rem .85rem;border:1px solid var(--linie-stark);border-radius:var(--radius);
+  font-family:var(--zierschrift);font-size:var(--grad-klein);
+  text-decoration:none;color:var(--tinte);
+}
+.begriffe a:hover{border-color:var(--akzent);color:var(--akzent)}
+.begriffe .anzahl{font-size:var(--grad-winzig);color:var(--matt)}
+.blaetterwerk{margin-top:var(--luft-4);text-align:center}
+.blaetterwerk ul{list-style:none;display:flex;gap:.5rem;justify-content:center;padding:0;margin:0}
+.blaetterwerk a,.blaetterwerk span{
+  display:inline-flex;align-items:center;justify-content:center;
+  min-width:2.25rem;min-height:2.25rem;padding:0 .4rem;
+  border:1px solid var(--linie);border-radius:var(--radius);
+  font-family:var(--zierschrift);font-size:var(--grad-winzig);text-decoration:none;
+}
+
+/* Fuß */
+.fuss{
+  max-width:var(--band);margin:var(--luft-4) auto 0;
+  padding:var(--luft-3) 0 0;text-align:center;
+  color:var(--matt);font-size:var(--grad-winzig);line-height:1.9;
+}
+.fuss .spruch{font-family:var(--zierschrift);letter-spacing:.1em;text-transform:uppercase;color:var(--gold-schrift)}
+.fuss nav{margin-top:.5rem}
+.fuss nav a{margin:0 .55rem;display:inline-block;min-height:1.9rem;line-height:1.9rem}
+.fuss .jahr{display:block;margin-top:.5rem;opacity:.8}
+
+/* Verschollene Seite */
+.verschollen{text-align:center;padding:var(--luft-4) 0}
+.verschollen p{max-width:26rem;margin-left:auto;margin-right:auto;color:var(--matt);font-style:italic}
+.verschollen .weiterlesen{font-style:normal;margin-top:var(--luft-2)}
+
+/* ---- 6 Zustände -------------------------------------------- */
+:where(a,button,summary,[tabindex]):focus-visible{
+  outline:2px solid var(--fokus);
+  outline-offset:3px;
+  border-radius:var(--radius);
+}
+@media (prefers-reduced-motion:no-preference){
+  a,.blatt-titel,.marken a,.begriffe a{transition:color .16s ease,border-color .16s ease}
+}
+@media (prefers-contrast:more){
+  :root{--matt:#3f3226;--linie:#a08a5f;--linie-stark:#8a7143}
+  @media (prefers-color-scheme:dark){
+    :root{--matt:#cfc0a8;--linie:#6b5c45;--linie-stark:#8a7756}
+  }
+}
+@media print{
+  html{background:#fff}
+  body{color:#000;font-size:11pt}
+  .blatt{border:0;box-shadow:none;background:none;padding:0}
+  .blatt::before{display:none}
+  .sprung,.blaettern,.fuss nav,.weiterlesen{display:none}
+  a{color:#000;text-decoration:none}
+  .text{max-width:none}
+}
 </style>

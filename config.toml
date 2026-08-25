@@ -10,6 +10,13 @@ removePathAccents = true
 
 [params]
   untertitel = "Die Chronik des Himmelszorns"
+  # Kurzer Geleittext auf der Startseite. Steht in Thalions Stimme; frei änderbar,
+  # ohne dass ein Layout angefasst werden muss.
+  geleit = "Ich bin Thalion Himmelszorn, Hochelf und Paladin des Ordens des Panzerhandschuhs. Ich habe den Eid der Rache geschworen. Was hier steht, ist kein Heldenlied — es sind die Nächte unter Baldurs Tor, der Gestank der Katakomben und die Namen derer, die ich nicht retten konnte."
+  # Für Suchmaschinen und geteilte Verweise.
+  beschreibung = "Das Tagebuch des Hochelfen Thalion Himmelszorn, Paladin des Ordens des Panzerhandschuhs und Träger des Eids der Rache, aufgezeichnet in Baldurs Tor im Jahr 1492."
+  # Zeile im Fuß.
+  wahlspruch = "Orden des Panzerhandschuhs · Eid der Rache"
   # Beitraege mit draft: true erscheinen erst nach 'draft: false'.
 
 [permalinks]

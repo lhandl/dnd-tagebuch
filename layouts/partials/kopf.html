@@ -1,0 +1,19 @@
+{{- /* Auf der Startseite trägt der Kopf den Titel als Überschrift der Seite.
+       Auf allen anderen Seiten ist er nur der Rückweg zur Chronik — die
+       Überschrift gehört dort dem Eintrag. */ -}}
+{{- if .IsHome -}}
+<header class="kopf kopf--gross">
+  <span class="wappen-kreis">{{ partial "wappen.html" . }}</span>
+  <h1 class="kopf-titel" style="display:block">{{ .Site.Title }}</h1>
+  {{ with .Site.Params.untertitel }}<p class="untertitel">{{ . }}</p>{{ end }}
+  {{ with .Site.Params.geleit }}<p class="geleit">{{ . }}</p>{{ end }}
+  {{ partial "ornament.html" "" }}
+</header>
+{{- else -}}
+<header class="kopf kopf--klein">
+  <a class="kopf-titel" href="{{ .Site.Home.RelPermalink }}">
+    <span class="wappen-kreis">{{ partial "wappen.html" . }}</span>
+    {{ .Site.Title }}
+  </a>
+</header>
+{{- end -}}

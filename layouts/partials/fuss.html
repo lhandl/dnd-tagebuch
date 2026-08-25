@@ -1,0 +1,11 @@
+<footer class="fuss">
+  {{ partial "ornament.html" "schmal" }}
+  <p class="spruch">{{ with .Site.Params.wahlspruch }}{{ . }}{{ else }}Orden des Panzerhandschuhs{{ end }}</p>
+  <nav aria-label="Weitere Seiten">
+    <a href="{{ .Site.Home.RelPermalink }}">Die Chronik</a>
+    {{- with .Site.GetPage "/orte" }}<a href="{{ .RelPermalink }}">Orte</a>{{ end -}}
+    {{- with .Site.GetPage "/tags" }}<a href="{{ .RelPermalink }}">Schlagworte</a>{{ end -}}
+    {{- with .Site.Home.OutputFormats.Get "rss" }}<a href="{{ .Permalink }}">Feed</a>{{ end -}}
+  </nav>
+  <span class="jahr">{{ now.Format "2006" }}</span>
+</footer>

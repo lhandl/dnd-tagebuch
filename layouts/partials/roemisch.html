@@ -1,0 +1,16 @@
+{{- /* Römische Zahl aus einer ganzen Zahl. Ohne Rekursion, damit es in
+       jeder Hugo-Fassung baut. Deckt 1 bis 3999 ab. */ -}}
+{{- $n := int . -}}
+{{- $tausender := slice "" "M" "MM" "MMM" -}}
+{{- $hunderter := slice "" "C" "CC" "CCC" "CD" "D" "DC" "DCC" "DCCC" "CM" -}}
+{{- $zehner := slice "" "X" "XX" "XXX" "XL" "L" "LX" "LXX" "LXXX" "XC" -}}
+{{- $einer := slice "" "I" "II" "III" "IV" "V" "VI" "VII" "VIII" "IX" -}}
+{{- if and (gt $n 0) (lt $n 4000) -}}
+  {{- printf "%s%s%s%s"
+      (index $tausender (div $n 1000))
+      (index $hunderter (div (mod $n 1000) 100))
+      (index $zehner (div (mod $n 100) 10))
+      (index $einer (mod $n 10)) -}}
+{{- else -}}
+  {{- $n -}}
+{{- end -}}

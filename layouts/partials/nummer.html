@@ -1,0 +1,9 @@
+{{- /* Fortlaufende Nummer eines Eintrags in der Chronik: der wievielte er
+       zeitlich ist. Nicht aus dem Dateinamen, damit spätere Einträge
+       ohne Zutun stimmen. */ -}}
+{{- $seite := . -}}
+{{- $n := 0 -}}
+{{- range (where .Site.RegularPages "Section" "posts") -}}
+  {{- if le .Date.Unix $seite.Date.Unix -}}{{- $n = add $n 1 -}}{{- end -}}
+{{- end -}}
+{{- $n -}}
