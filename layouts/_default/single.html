@@ -16,7 +16,9 @@
       <dt>Niedergeschrieben</dt>
       {{- /* In-World-Zeit aus dem Frontmatter; das echte Datum bleibt als
              maschinenlesbares Attribut erhalten und ordnet weiterhin die Reihenfolge. */ -}}
-      <dd><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Params.zeit | default (partial "datum.html" .Date) }}</time></dd>
+      <dd><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Params.zeit | default (partial "datum.html" .Date) }}</time>
+      {{- with partial "jahresname.html" .Params.zeit }}<span class="jahresrolle">{{ . }}</span>{{ end -}}
+      </dd>
     </div>
     {{ with .Params.ort }}
     <div>

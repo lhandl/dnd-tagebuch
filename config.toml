@@ -28,3 +28,17 @@ removePathAccents = true
 
 [markup.goldmark.renderer]
   unsafe = true
+
+# Die Jahresrolle. In den Realms traegt jedes Jahr einen Namen, der von Auguren
+# vorher verkuendet wird und sich erst im Rueckblick erfuellt — deshalb klingen
+# sie raetselhaft und nie wie eine Zusammenfassung.
+#
+# Diese hier sind erfunden, nicht kanonisch (Operator-Entscheid 2026-08-26).
+# 1492 nimmt Elturels erloschenen Begleiter vorweg, ohne ihn zu nennen; 1491 den
+# Todesfluch aus Chult, an dem die Wiederbelebten dahinschwanden.
+[params.jahresnamen]
+  "1490" = "Jahr der stummen Glocken"
+  "1491" = "Jahr des gestohlenen Atems"
+  "1492" = "Jahr der erloschenen Laterne"
+  "1493" = "Jahr der zwei Schatten"
+  "1494" = "Jahr des gewendeten Schildes"

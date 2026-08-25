@@ -1,0 +1,7 @@
+{{- /* Liefert den Namen aus der Jahresrolle zu einer Zeitangabe wie "Ches 1492".
+       Findet sich keine Jahreszahl (etwa bei "Rückblick") oder kein Eintrag in
+       config.toml, kommt nichts zurück — die Angabe entfällt dann still, statt
+       eine leere Zeile oder einen Platzhalter zu hinterlassen. */ -}}
+{{- $jahr := "" -}}
+{{- with . }}{{ $treffer := findRE "[0-9]{3,4}" . 1 }}{{ with $treffer }}{{ $jahr = index . 0 }}{{ end }}{{ end -}}
+{{- with $jahr }}{{ index site.Params.jahresnamen . | default "" }}{{ end -}}
