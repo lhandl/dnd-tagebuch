@@ -3,7 +3,7 @@ title: "Die geschlossenen Tore"
 date: 2026-07-21T20:00:00+02:00
 draft: false
 tags: ["Soubar", "Baldurs Tor", "Elturel", "Elturgard", "Echsensumpf", "Basilisken-Tor"]
-zeit: "Ches 1492"
+zeit: "Ches 1492 DR"
 ort: "Hinterzimmer der Flammenden Faust, Baldurs Tor"
 stimmung: "Angewidert, in meiner Ehre gekränkt"
 ---

@@ -30,7 +30,7 @@ dagegen, BEVOR ein Eintrag abgegeben wird.
     date:   YYYY-MM-DDTHH:MM:SS+02:00
     draft:  true
     tags:   [ort, person, thema]
-    zeit:   Monat und Jahr der Spielwelt, z. B. "Ches 1492"
+    zeit:   Monat und Jahr der Spielwelt mit Jahreszählung, z. B. "Ches 1492 DR"
     ort:    Wo der Eintrag geschrieben wurde
     stimmung: Gemütslage in zwei bis drei Worten
     ---
@@ -40,5 +40,11 @@ werden bewusst nicht geführt — im Spiel tragen sie nichts, und der Text sagt
 ohnehin „gestern" und „am Morgen" statt eines Datums. Ein Rückblick, der nicht
 in der laufenden Handlung liegt, trägt statt eines Monats das Wort „Rückblick";
 wie lange er zurückliegt, legt das Tagebuch bewusst nicht fest.
+
+Das „DR" (Dale Reckoning) gehört in die **Metadaten**, nie in den Fließtext:
+Die Kopfzeilen sind die Rahmung der Chronik, dort ist die volle Jahresangabe
+richtig. Thalion selbst schreibt „im Frühling des Jahres 1492" — wer in der Welt
+lebt, erklärt seine Jahreszählung nicht. Denselben Grund hat es, dass der
+Jahresname aus der Jahresrolle in den Metadaten steht und nicht im Text.
 
 `draft: true` ist Vorgabe. Ein Eintrag wird erst nach deiner Durchsicht veröffentlicht.

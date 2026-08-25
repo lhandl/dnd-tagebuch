@@ -3,7 +3,7 @@ title: "Das erloschene Licht"
 date: 2026-07-14T20:00:00+02:00
 draft: false
 tags: ["Soubar", "Baldurs Tor", "Elturel", "Gerret", "Chult"]
-zeit: "Ches 1492"
+zeit: "Ches 1492 DR"
 ort: "Eine Schenke im Dorf Soubar"
 stimmung: "Wachsam, von düsterer Vorahnung erfüllt"
 ---

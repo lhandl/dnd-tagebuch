@@ -3,7 +3,7 @@ title: "Fanatismus und das Gewicht der Unschuld"
 date: 2026-08-25T20:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Oberstadt", "Toten Drei", "Myrkul", "Bane", "Bhaal"]
-zeit: "Ches 1492"
+zeit: "Ches 1492 DR"
 ort: "Das Heiligtum des Bane, tief unter Baldurs Tor"
 stimmung: "Geschunden, schmerzerfüllt, doch eisern in der Entschlossenheit"
 ---

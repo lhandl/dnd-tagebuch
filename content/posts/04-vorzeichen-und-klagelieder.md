@@ -3,7 +3,7 @@ title: "Vorzeichen und Klagelieder"
 date: 2026-08-04T20:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Elturel", "Elfenlied", "Unterstadt", "Zodge", "Rahima"]
-zeit: "Ches 1492"
+zeit: "Ches 1492 DR"
 ort: "Die Elfenlied-Taverne, Baldurs Tor"
 stimmung: "Wachsam, von unheilvollen Prophezeiungen begleitet"
 ---

@@ -3,7 +3,7 @@ title: "Vor der Jagd"
 date: 2026-07-28T20:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Echsensumpf"]
-zeit: "Ches 1492"
+zeit: "Ches 1492 DR"
 ort: "Die dunklen Gassen von Baldurs Tor"
 stimmung: "Brennend vor gerechtem Zorn"
 ---

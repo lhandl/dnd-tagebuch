@@ -3,7 +3,7 @@ title: "Das Blut unter dem Wasser"
 date: 2026-08-11T20:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Toten Drei", "Myrkul", "Bane", "Bhaal", "Tarina"]
-zeit: "Ches 1492"
+zeit: "Ches 1492 DR"
 ort: "Die Katakomben unter dem Badehaus, Baldurs Tor"
 stimmung: "Angewidert, doch erfüllt vom Rausch der Gerechtigkeit"
 ---
