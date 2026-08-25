@@ -1,0 +1,4 @@
+{{- /* Deutsches Datum. Hugo 0.92 lokalisiert .Date.Format nicht - der Monatsname
+       kaeme englisch heraus ("14. July 2026") trotz languageCode de-at. */ -}}
+{{- $m := index (slice "" "Jänner" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember") (int (.Format "1")) -}}
+{{- printf "%s. %s %s" (.Format "2") $m (.Format "2006") -}}

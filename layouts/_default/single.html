@@ -2,10 +2,11 @@
 <article class="eintrag">
   <h1>{{ .Title }}</h1>
   <p class="meta">
-    {{ .Date.Format "2. January 2006" }}
+    {{ partial "datum.html" .Date }}
     {{ with .Params.ort }} · {{ . }}{{ end }}
     {{ with .Params.tag_der_reise }} · Tag {{ . }} der Reise{{ end }}
   </p>
+  {{ with .Params.stimmung }}<p class="stimmung">{{ . }}</p>{{ end }}
   {{ .Content }}
   {{ with .Params.tags }}<p class="marken">{{ range . }}<span>{{ . }}</span>{{ end }}</p>{{ end }}
   <nav class="blaettern">

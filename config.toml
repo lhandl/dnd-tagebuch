@@ -2,14 +2,14 @@
 # baseURL wird beim Bau in der Action ueberschrieben; hier steht der Endzustand.
 baseURL = "https://lhandl.github.io/dnd-tagebuch/"
 languageCode = "de-at"
-title = "Tagebuch"
+title = "Thalions Tagebuch"
 
 buildDrafts = false
 enableEmoji = true
 removePathAccents = true
 
 [params]
-  untertitel = "Aufzeichnungen von unterwegs"
+  untertitel = "Die Chronik des Himmelszorns"
   # Beitraege mit draft: true erscheinen erst nach 'draft: false'.
 
 [permalinks]
