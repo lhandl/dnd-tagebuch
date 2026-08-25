@@ -29,16 +29,20 @@ removePathAccents = true
 [markup.goldmark.renderer]
   unsafe = true
 
-# Die Jahresrolle. In den Realms traegt jedes Jahr einen Namen, der von Auguren
-# vorher verkuendet wird und sich erst im Rueckblick erfuellt — deshalb klingen
-# sie raetselhaft und nie wie eine Zusammenfassung.
+# Die Jahresrolle (Roll of Years). In den Realms traegt jedes Jahr einen Namen,
+# den Auguren im Voraus verkuenden und der sich erst im Rueckblick erfuellt.
 #
-# Diese hier sind erfunden, nicht kanonisch (Operator-Entscheid 2026-08-26).
-# 1492 nimmt Elturels erloschenen Begleiter vorweg, ohne ihn zu nennen; 1491 den
-# Todesfluch aus Chult, an dem die Wiederbelebten dahinschwanden.
+# Kanonische englische Namen — Operator-Entscheid 2026-08-26: englische
+# Bezeichnungen bleiben, keine Uebersetzung. 1492 ist belegt durch Christopher
+# Perkins (WotC) und wird von Baldur's Gate 3 ingame verwendet; die uebrigen
+# stammen aus der Roll-of-Years-Liste (Forgotten Realms Wiki, Wikidot),
+# keine gedruckte Primaerquelle geprueft.
 [params.jahresnamen]
-  "1490" = "Jahr der stummen Glocken"
-  "1491" = "Jahr des gestohlenen Atems"
-  "1492" = "Jahr der erloschenen Laterne"
-  "1493" = "Jahr der zwei Schatten"
-  "1494" = "Jahr des gewendeten Schildes"
+  "1489" = "Year of the Warrior Princess"
+  "1490" = "Year of the Star Walker's Return"
+  "1491" = "Year of the Scarlet Witch"
+  "1492" = "Year of Three Ships Sailing"
+  "1493" = "Year of the Purple Dragons"
+  "1494" = "Year of Twelve Warnings"
+  "1495" = "Year of the Tyrant's Pawn"
+  "1496" = "Year of the Duplicitous Courtier"

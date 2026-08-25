@@ -1,6 +1,6 @@
 ---
 title: "Das Blut unter dem Wasser"
-date: 2026-08-11T20:00:00+02:00
+date: 2026-08-14T09:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Toten Drei", "Myrkul", "Bane", "Bhaal", "Tarina"]
 zeit: "Ches 1492 DR"

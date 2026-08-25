@@ -1,6 +1,6 @@
 ---
 title: "Die Asche der Jugend"
-date: 2026-07-07T20:00:00+02:00
+date: 2026-08-09T09:00:00+02:00
 draft: false
 tags: ["Tiefwasser", "Echsensumpf", "Nebelwald"]
 zeit: "Rückblick"
