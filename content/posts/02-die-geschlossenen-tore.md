@@ -1,6 +1,6 @@
 ---
 title: "Die geschlossenen Tore"
-date: 2026-08-11T09:00:00+02:00
+date: 2026-08-08T09:00:00+02:00
 draft: false
 tags: ["Soubar", "Baldurs Tor", "Elturel", "Elturgard", "Echsensumpf", "Basilisken-Tor"]
 zeit: "Ches 1492 DR"

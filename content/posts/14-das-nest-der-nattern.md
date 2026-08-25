@@ -1,6 +1,6 @@
 ---
 title: "Das Nest der Nattern"
-date: 2026-08-23T09:00:00+02:00
+date: 2026-08-20T09:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Elturel", "Toten Drei", "Bhaal", "Vendetta Casalanter", "Mortlock"]
 zeit: "Ches 1492 DR"

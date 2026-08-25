@@ -1,6 +1,6 @@
 ---
 title: "Die Maske der Unschuld"
-date: 2026-08-19T09:00:00+02:00
+date: 2026-08-16T09:00:00+02:00
 draft: false
 tags: ["Bhaal", "Rahima", "Cassia", "Fizbibel", "Ganrek", "Draciar"]
 zeit: "Ches 1492 DR"

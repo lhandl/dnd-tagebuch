@@ -1,6 +1,6 @@
 ---
 title: "Vorzeichen und Klagelieder"
-date: 2026-08-13T09:00:00+02:00
+date: 2026-08-10T09:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Elturel", "Elfenlied", "Unterstadt", "Zodge", "Rahima"]
 zeit: "Ches 1492 DR"

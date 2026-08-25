@@ -1,6 +1,6 @@
 ---
 title: "Fanatismus und das Gewicht der Unschuld"
-date: 2026-08-16T09:00:00+02:00
+date: 2026-08-13T09:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Oberstadt", "Toten Drei", "Myrkul", "Bane", "Bhaal"]
 zeit: "Ches 1492 DR"

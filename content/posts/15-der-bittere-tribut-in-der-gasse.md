@@ -1,6 +1,6 @@
 ---
 title: "Der bittere Tribut in der Gasse"
-date: 2026-08-24T09:00:00+02:00
+date: 2026-08-21T09:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Toten Drei", "Myrkul", "Bane", "Bhaal", "Torm"]
 zeit: "Ches 1492 DR"

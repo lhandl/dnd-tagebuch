@@ -1,6 +1,6 @@
 ---
 title: "Schatten und Schnauzen"
-date: 2026-08-20T09:00:00+02:00
+date: 2026-08-17T09:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Elturel", "Toten Drei", "Bhaal", "Ganrek", "Lilli"]
 zeit: "Ches 1492 DR"

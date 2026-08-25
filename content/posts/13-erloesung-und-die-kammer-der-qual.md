@@ -1,6 +1,6 @@
 ---
 title: "Erlösung und die Kammer der Qual"
-date: 2026-08-22T09:00:00+02:00
+date: 2026-08-19T09:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Bhaal", "Torm", "Cassia", "Fizbibel", "Draciar"]
 zeit: "Ches 1492 DR"

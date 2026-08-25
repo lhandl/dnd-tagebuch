@@ -1,6 +1,6 @@
 ---
 title: "Banalitäten und die Suche nach dem Gnom"
-date: 2026-08-18T09:00:00+02:00
+date: 2026-08-15T09:00:00+02:00
 draft: false
 tags: ["Flammende Faust", "Tyr", "Cassia", "Fizbibel", "Jordanus", "Händlerviertel"]
 zeit: "Ches 1492 DR"

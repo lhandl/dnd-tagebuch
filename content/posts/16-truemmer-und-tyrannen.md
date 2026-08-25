@@ -1,6 +1,6 @@
 ---
 title: "Trümmer und Tyrannen"
-date: 2026-08-25T09:00:00+02:00
+date: 2026-08-22T09:00:00+02:00
 draft: false
 tags: ["Oberstadt", "Tyr", "Vendetta Casalanter", "Mortlock", "Vanthampur", "Schlabberlippe"]
 zeit: "Ches 1492 DR"

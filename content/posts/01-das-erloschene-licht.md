@@ -1,6 +1,6 @@
 ---
 title: "Das erloschene Licht"
-date: 2026-08-10T09:00:00+02:00
+date: 2026-08-07T09:00:00+02:00
 draft: false
 tags: ["Soubar", "Baldurs Tor", "Elturel", "Gerret", "Chult"]
 zeit: "Ches 1492 DR"
