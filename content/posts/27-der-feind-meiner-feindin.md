@@ -4,7 +4,7 @@ date: 2026-08-25T17:00:00+02:00
 draft: false
 tags: ["Elturel", "Avernus", "Zariel", "Blutkrieg", "Lulu", "Candlekeep"]
 zeit: "Tarsakh 1492 DR"
-ort: "Elturel, eine Gasse zwei Höfe vor der großen Halle"
+ort: "Elturel, eine Gasse zwei Höfe vor der Hohen Halle"
 stimmung: "Bestätigt, und das ist das Schlimmste"
 ---
 Ich verstehe nicht, wozu Heimlichkeit gut sein soll.
@@ -67,6 +67,6 @@ Wer der zweiten befiehlt, weiß ich nicht. Ich werde den Namen erfahren, und dan
 
 Die Leute standen die ganze Zeit an der Mauer und keiner lief weg. Wohin auch. Sie hörten jedes Wort und gingen danach weiter hinter uns her, und einer nahm dem mit dem Kind das Kind ab, damit er die Arme wechseln konnte.
 
-Zur großen Halle sind es noch zwei Gassen und ein Hof. Unter uns arbeiten die Ketten weiter.
+Zur Hohen Halle sind es noch zwei Gassen und ein Hof. Unter uns arbeiten die Ketten weiter.
 
 Wie viele hier noch atmen, weiß ich nicht. Ich weiß, dass zwei Mächte diese Zahl zählen und dass beide sie ändern wollen, jede in ihre Richtung. Ich werde sie nicht kleiner werden lassen.

@@ -2,14 +2,14 @@
 title: "Der Lärm, den ich machte"
 date: 2026-08-25T18:00:00+02:00
 draft: false
-tags: ["Elturel", "die große Halle", "Höllenhunde", "Avernus"]
+tags: ["Elturel", "die Hohe Halle", "Höllenhunde", "Avernus"]
 zeit: "Tarsakh 1492 DR"
-ort: "Elturel, ein leerer Hof unweit der großen Halle"
+ort: "Elturel, ein leerer Hof unweit der Hohen Halle"
 stimmung: "Atemlos, und nicht stolz"
 ---
 Zwei Hunde standen vor dem Tor. Ich sage zwei, weil ich zwei sah.
 
-Vom Ende der Gasse aus sind es vielleicht achtzig Schritt bis zum Tor der großen Halle, und dazwischen liegt ein Hof ohne alles. Keine Karren, keine Stände, kein Brunnen. Entweder hat man ihn leer geräumt, oder jemand hat sich das Holz geholt. Auf diesem Hof gingen sie auf und ab, kurze Wege, immer dieselben, wie Wachen, die ihre Länge kennen.
+Vom Ende der Gasse aus sind es vielleicht achtzig Schritt bis zum Tor der Hohen Halle, und dazwischen liegt ein Hof ohne alles. Keine Karren, keine Stände, kein Brunnen. Entweder hat man ihn leer geräumt, oder jemand hat sich das Holz geholt. Auf diesem Hof gingen sie auf und ab, kurze Wege, immer dieselben, wie Wachen, die ihre Länge kennen.
 
 Der Stein unter ihnen war heller als der Stein daneben. Über ihren Rücken zog die Luft Schlieren, wie über einem Kessel. Als einer den Kopf hob, glomm etwas in seinem Maul, und danach schmeckte ich Rauch, obwohl der Wind von uns zu ihnen ging.
 

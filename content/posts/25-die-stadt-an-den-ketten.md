@@ -19,7 +19,7 @@ Elturel. Nicht zerschlagen, nicht ausgebrannt, nicht in den Boden gestampft. Gan
 
 Man hat sie nicht getötet. Man hat sie gestohlen.
 
-Irgendwer entrollte eine Karte der Stadt. Woher sie kam, weiß ich nicht mehr; in den letzten Wochen wanderte zu viel Papier durch zu viele Hände. Straßen, Höfe, die Klippen, der Spalt und die wenigen Brücken darüber, und im oberen Drittel die große Halle. Sie stimmte. Das war mehr, als ich erwartet hatte.
+Irgendwer entrollte eine Karte der Stadt. Woher sie kam, weiß ich nicht mehr; in den letzten Wochen wanderte zu viel Papier durch zu viele Hände. Straßen, Höfe, die Klippen, der Spalt und die wenigen Brücken darüber, und im oberen Drittel die Hohe Halle. Sie stimmte. Das war mehr, als ich erwartet hatte.
 
 Wir gingen hinein, um uns zurechtzufinden, und fanden uns nicht zurecht, sondern fanden Teufel.
 
@@ -53,7 +53,7 @@ Es ist Wasser.
 
 Reya nannte ihn beim Namen, ehe ich fragte. Styx. Ich kannte den Namen schon, aus dem schwarzen Buch, in dem er zweimal steht, und beide Male in einem Satz, der jemanden warnt. Ich fragte nicht weiter, und sie sagte nicht mehr.
 
-Die große Halle liegt auf der anderen Seite. Dorthin müssen wir; darauf lief alles hinaus, was man uns in Candlekeep mitgab. Und dort, wenn irgendwo, findet sich eine Spur von Ulder Ravengard, um dessentwillen uns die Faust überhaupt ausschickte. Ob der Mann noch atmet, sagte mir niemand, und ich schreibe mir keinen Lebenden herbei, den ich nicht gesehen habe.
+Die Hohe Halle liegt auf der anderen Seite. Dorthin müssen wir; darauf lief alles hinaus, was man uns in Candlekeep mitgab. Und dort, wenn irgendwo, findet sich eine Spur von Ulder Ravengard, um dessentwillen uns die Faust überhaupt ausschickte. Ob der Mann noch atmet, sagte mir niemand, und ich schreibe mir keinen Lebenden herbei, den ich nicht gesehen habe.
 
 Zwischen der Halle und uns brach der Fels auf, als man die Stadt herunterriss — ein Spalt, so breit, dass man einen Rufer drüben nicht hört, und über ihn gehen nur ein paar Brücken.
 

@@ -153,7 +153,7 @@ Ich habe nicht gefragt.
 
 Und dann sagte sie das Einzige, weswegen ich diesen Abend aushalte: Man kommt dorthin.
 
-Es gibt einen Magier, Traxigor heißt er, und sie schrieb uns auf, wo er zu finden ist; er kann uns hinüberbringen. Sie gab uns eine Karte von Elturel, wie es war, mit der großen Halle darauf. Sie fragte nicht, ob wir gehen wollen. Sie fragte, wann wir aufbrechen.
+Es gibt einen Magier, Traxigor heißt er, und sie schrieb uns auf, wo er zu finden ist; er kann uns hinüberbringen. Sie gab uns eine Karte von Elturel, wie es war, mit der Hohen Halle darauf. Sie fragte nicht, ob wir gehen wollen. Sie fragte, wann wir aufbrechen.
 
 Morgen. Wir brechen morgen auf.
 
