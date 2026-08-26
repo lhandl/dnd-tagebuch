@@ -53,4 +53,4 @@ Zwischen dem Hof mit den Hunden und dieser Empore liegt kein halber Tag. Ich hab
 
 Ob wir ihnen sagen, dass sie hierbleiben können, ist nicht beschlossen. Die Halle ist heil, und ein Bildnis hält. Das ist mehr, als ich erwartet habe, und es ist nicht dasselbe wie sicher.
 
-Ich habe die Bank zurückgeschoben, wie sie stand, ehe ich hinunterging. Ich weiß nicht, warum mir das wichtig war.
+Ich habe die Bank zurückgeschoben, wie sie stand, ehe ich hinuntergehe. Ich weiß nicht, warum mir das wichtig ist.
