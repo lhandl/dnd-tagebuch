@@ -37,6 +37,8 @@ Das tat meiner Seele gut, mich dem Bösen unmittelbar stellen zu können, ohne m
 
 Er hieb, ehe ich ganz stand. Ich ging unter dem Schaft durch und war ihm damit näher, als ihm lieb war; von da an hatte seine lange Waffe keinen Platz mehr. Er wich zurück, bis ihm die Wand im Rücken lag, und dann wich er nicht mehr.
 
+Ich schlug zu. Wie immer bei solchen lief mir dabei das Heiße vom Rücken in den Arm, und es ging mit der Klinge in ihn hinein.
+
 Meine Gefährten kamen nach, durch die Tiere hindurch, und wir machten ihn gemeinsam nieder. Als er lag, liefen die Krabben auseinander. Wir holten sie ein, eine nach der anderen, und keine kam bis zu den Leuten im Tor.
 
 Ich wischte die Klinge an dem Tuch ab, das ohnehin verdorben war.
