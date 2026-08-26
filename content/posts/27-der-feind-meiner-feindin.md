@@ -43,13 +43,23 @@ Am Ende wiesen wir es zur Brücke. Dort stünden welche, sagten wir, an denen me
 
 Ob es unter meiner Klinge fällt oder unter den Haken der vier, ändert an der Welt nichts. Fallen dort die vier, ändert es auch nichts. Es hatte von einer Pause gesprochen, und ich wies es zur Brücke. Gestern rechnete ich ihnen vor, es sei besser für sie, jetzt nicht zu sterben; heute schickte ich ihnen das da. Die Rechnung geht auf, wie sie ausgeht.
 
-Ehe es ging, sagte es uns, weshalb es hier ist.
+Ehe es ging, sagte es uns, was es hier soll.
 
-Es hat einen Auftrag. Töten. Nicht diesen oder jenen, nicht die Wachen und nicht die Rüstungen — alles. Jeden. Die Stadt leer machen. Nicht aus Hunger und nicht aus Zorn: weil jeder, der hier noch atmet, für Zariel etwas wert ist, und was tot ist, wiegt in ihrer Schale nicht mehr. So sagte es.
+Töten. Nicht diesen oder jenen, nicht die Wachen und nicht die Rüstungen — alles. Jeden. Die Stadt leer machen.
+
+So sagte es. Dann ging es. Mehr kam nicht.
+
+Ich blieb stehen, wo ich stand. Vorne sagte jemand etwas, und ich hörte, dass er sprach, und nicht, was.
+
+Es fragte nicht, wozu. Es bekam einen Auftrag und ging los.
+
+Ich fragte.
+
+Wer eine Stadt leerräumen lässt, deren Menschen gezählt werden, will die Zahl kleiner haben. Nicht aus Hunger und nicht aus Zorn. Weil jeder, der hier noch atmet, für Zariel etwas wert ist — und was tot ist, wiegt in ihrer Schale nicht mehr.
 
 Das Wort eines solchen Wesens ist nichts wert. Ich weiß das. Es passte trotzdem in jede Lücke, die mir seit Candlekeep geblieben war, und es passte ohne Widerstand, wie ein Schlüssel, den man nicht drehen muss.
 
-Ich schrieb in diese Blätter oft, ich fürchtete das Schlimmste. Man schreibt das so hin, und meistens tritt etwas Kleineres ein, Schmutzigeres, das man aushält. Heute sagte es mir jemand in einer Gasse ins Gesicht.
+Ich schrieb in diese Blätter oft, ich fürchtete das Schlimmste. Man schreibt das so hin, und meistens tritt etwas Kleineres ein, Schmutzigeres, das man aushält. Heute stand ich in einer Gasse und rechnete es mir selbst zusammen.
 
 Ich redete mir ein, es gäbe hier zwei Seiten und wir stünden dazwischen. Es sind zwei Sensen. Die eine mäht sie in eine Schale. Die andere mäht sie fort, damit die Schale leichter wird. Für den Mann mit dem Kind ist das derselbe Schnitt.
 
@@ -60,4 +70,3 @@ Die Leute standen die ganze Zeit an der Mauer und keiner lief weg. Wohin auch. S
 Zur großen Halle sind es noch zwei Gassen und ein Hof. Unter uns arbeiten die Ketten weiter.
 
 Wie viele hier noch atmen, weiß ich nicht. Ich weiß, dass zwei Mächte diese Zahl zählen und dass beide sie ändern wollen, jede in ihre Richtung. Ich werde sie nicht kleiner werden lassen.
-
