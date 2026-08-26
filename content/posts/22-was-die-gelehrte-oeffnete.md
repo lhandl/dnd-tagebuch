@@ -2,7 +2,7 @@
 title: "Der Vertrag, den er für alle unterschrieb"
 date: 2026-08-25T12:00:00+02:00
 draft: false
-tags: ["Candlekeep", "Sylvira Savikas", "Thavius Kreeg", "Zariel", "Avernus", "Elturel", "Das schwarze Buch", "Reya Mantlemorn", "Traxigor"]
+tags: ["Candlekeep", "Sylvira Savikas", "Thavius Kreeg", "Zariel", "Avernus", "Elturel", "Seelenmünze", "Das schwarze Buch", "Reya Mantlemorn", "Traxigor"]
 zeit: "Tarsakh 1492 DR"
 ort: "Candlekeep, eine Kammer für Gäste"
 stimmung: "Erschüttert bis ins Mark"
@@ -31,11 +31,27 @@ Eine Gelehrte, die einen Dämon in der Ecke sitzen hat. Ich schreibe es hin und 
 
 Wir hatten zwei Rätselboxen dabei — die eine gab uns Harlan Voss mit, die andere nahmen wir aus dem Haus der Herzogin. Bori hat an beiden gesessen, bis ihm die Augen tränten. Cassia hat sie gedreht, beschworen und einmal gegen eine Wand geworfen.
 
-Sylvira nahm die erste in die Hände, wendete sie zweimal, und sie ging auf. Die zweite dauerte länger. So lange, wie man für einen Schluck Wasser braucht.
+Sylvira sah sich beide lange an. Dann holte sie ein Fläschchen. Was darin war, glänzte silbrig und lief nicht, wie Wasser läuft — es hing zusammen und blieb ein einziger Tropfen, auch als sie es über die Naht der ersten Schachtel zog. Es zischte nicht. Es dauerte drei Atemzüge, dann gab die Naht nach.
 
-Kein Rätsel. Keine Prüfung. Eine Schachtel.
+Ich fragte nicht, was das war. Ich hätte die Antwort nicht verstanden.
 
-In der aus dem Haus der Herzogin lag ein Vertrag. Dunkles Pergament, eng beschrieben, und unter dem letzten Absatz ein Name, den ich kenne: Thavius Kreeg.
+Jede dieser Schachteln, sagte sie, hat ihren eigenen Kniff, und keiner sei wie der andere. Man löse sie nicht. Man kenne sie oder nicht.
+
+Damit war beantwortet, was Bori seit Wochen um den Schlaf gebracht hat. Er hat nichts falsch gemacht. Ihm fehlte nur, was diese Frau hat.
+
+In der ersten Schachtel, der von Harlan Voss, lagen Münzen.
+
+Schwer, dunkel, größer als ein Silberstück. Sie waren wärmer, als Metall sein darf, das wochenlang in einem Bündel liegt. Ich hörte Bori neben mir einatmen, so wie man einatmet, wenn man etwas erkennt, das man nicht sehen wollte.
+
+Sylvira nannte sie Seelenmünzen und erklärte sie uns wie eine, die einen Wechselkurs erklärt.
+
+Es ist Geld. Nichts weiter — in den Neun Höllen zahlt man damit, wie man hier mit Silber zahlt, und wer dort einen Dienst will, legt sie auf den Tisch. In jeder einzelnen steckt eine Seele. Eingesperrt. Eine Seele, eine Münze.
+
+Ich nahm eine in die Hand. Ich schloss die Faust darum, ganz, wie man etwas hält, das weglaufen könnte. Dann legte ich sie zurück auf den Tisch und wischte die Hand am Waffenrock ab.
+
+Das ist wenig. Ich weiß.
+
+In der zweiten Schachtel, der aus dem Haus der Herzogin, lag ein Vertrag. Dunkles Pergament, eng beschrieben, und unter dem letzten Absatz ein Name, den ich kenne: Thavius Kreeg.
 
 Sie las ihn uns vor und sagte dazu, was die Windungen bedeuten. Ich schreibe es auf, so genau ich es behalten habe, weil ich es nachlesen will, wenn ich es morgen für einen Traum halte.
 
