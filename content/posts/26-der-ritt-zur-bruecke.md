@@ -23,6 +23,8 @@ Dann saß ich auf.
 
 Die Straße zur Brücke ist gerade und lang, und ich nahm sie im Schritt. Nicht im Trab. Im Schritt. Hinter mir gingen meine Gefährten, und ich hörte, wie ihre Schritte sich in meine ordneten, ohne dass jemand ein Wort darüber verlor.
 
+Von den Brücken über den Spalt wählten wir die, die am geradesten auf die große Halle zuläuft. Es gibt keine, auf der niemand steht; da nimmt man die kürzeste.
+
 Seit dem Sumpf ging ich durch Wasser, durch Keller, durch Gülle. Heute ging ich über niemanden gebückt. Man sah mich schon von weitem, und das war die Absicht.
 
 Vier standen auf der Brücke, mit Stangen und Haken, und der Größte trug ein Zeichen um den Hals, das wohl einen Rang bedeutet. Sie lachten, als ich anhielt. Sie lachten nicht lange, aber sie lachten.
@@ -36,6 +38,8 @@ Der mit dem Haken trat als Erster zur Seite. Die anderen sahen ihn an und traten
 Zum vierten Mal nun. Der Drachenkult in der Gasse bekam sein Gold, der Schuldeneintreiber seinen Willen, der Geldverleiher seinen Atem. Diese vier bekamen eine Strafe, die nicht von mir kommt, und wir bekamen die Brücke. Dreimal ging ich als der Kleinere aus einem Handel. Diesmal nicht.
 
 Die Bretter dröhnten unter den Hufen. Unter uns der Spalt, und tief darunter das Summen der Heere, und ich sah geradeaus und ritt hinüber, als gehörte mir der Weg.
+
+Wir sind alle drüben, und keiner blutet. Von hier bis zur großen Halle sind es noch ein paar Straßenzüge.
 
 Ich muss zugeben, dass es mir gefiel.
 

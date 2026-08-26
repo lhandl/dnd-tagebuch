@@ -19,7 +19,7 @@ An der Planke standen zwei mit Knüppeln. Kein Eisen an Bord, sagten sie, das ge
 
 Unter Deck war es voll. Sie lachten, sie würfelten, sie füllten einander die Becher. Solche Bänke kenne ich; die, mit denen ich damals saß, leben alle noch.
 
-Dort unten saß auch Amrik Vanthampur, und zu ihm kam nur, wer an den Wachen vorbeikam. Es brauchte Augen, die woanders hinsahen. Ich stellte mich zur Verfügung.
+Dort unten saß auch Amrik Vanthampur, der Sohn der Herzogin, der in dieser Stadt Geld verleiht. Seinetwegen kamen wir: Wer erfahren will, wie es im Haus einer Herzogin zugeht, fragt einen, der darin groß geworden ist. Zu ihm kam nur, wer an den Wachen vorbeikam. Es brauchte Augen, die woanders hinsahen. Ich stellte mich zur Verfügung.
 
 Ich suchte mir einen aus, dessen Gesicht mir nicht gefiel. Warum es mir nicht gefiel, könnte ich nicht sagen. Er saß bei den Bechern und wollte an diesem Abend nichts weiter als ein wenig Glück. Ich stieß ihn an, nannte ihn einen Falschspieler, warf ihm den Krug um und trug den Zorn wie einen Helm.
 
@@ -45,11 +45,13 @@ Meine Gefährten waren unten und ohne Eisen. Ich kam von oben und hatte meines. 
 
 Was Amrik danach ausspuckte, weiß ich aus dem Mund meiner Gefährten; mein Blut ging noch zu laut. Wachen hatte er, und einen Teufel, vielleicht zwei. Von Drohungen ließ er sich zuerst nicht beeindrucken. Danach schon.
 
-Er redete über das Anwesen seiner Mutter: Kultisten, die ein und aus gehen wie Bedienstete, Mörder, die dafür bezahlt werden. Und ein Name fiel, den ich schon einmal in diese Blätter schrieb – Thavius Kreeg.
+Er redete über das Anwesen seiner Mutter. Thalamra Vanthampur, Herzogin dieser Stadt — ich schreibe den Namen aus, damit er dasteht: Kultisten, die ein und aus gehen wie Bedienstete, Mörder, die aus ihrer Kasse bezahlt werden. Es läuft nicht neben ihr her. Es läuft in ihrem Haus. Und was Mortlock im Verlies stammelte — Mama ist im Keller —, klang aus dem Mund des Bruders nicht anders.
+
+Und ein Name fiel, den ich schon einmal in diese Blätter schrieb – Thavius Kreeg.
 
 Ich sprach ihn im Tempel des Tyr vor Hohepriester Jordanus als Verdacht aus. Nun kommt er mir aus dem Maul eines Geldverleihers zurück, der um sein Leben redete. Wer um sein Leben redet, sagt, was man hören will. Eine Vermutung bleibt es. Sie wiegt nur schwerer als gestern.
 
-Er darf leben, solange er sich in Baldurs Tor nie wieder blicken lässt.
+Wir ließen ihn laufen. Er darf leben, solange er sich in Baldurs Tor nie wieder blicken lässt; das war der Preis, und er nahm ihn, ehe ihn jemand zweimal nannte.
 
 Zum dritten Mal nun. Der Drachenkult in der Gasse bekam sein Gold, der Schuldeneintreiber seinen Willen, dieser seinen Atem – und wir dafür, was er über das Haus seiner Mutter wusste. Diesmal trug es etwas ein. Ein Handel bleibt es.
 

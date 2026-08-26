@@ -19,7 +19,7 @@ Wir standen die ganze Zeit im Wasser. Meine Stiefel sind heute Abend weiß von S
 
 Auf einem flachen Stein in der Mitte lag ein Otter. Er hielt eine Muschel zwischen den Vorderpfoten und schlug sie an einem zweiten Stein auf, und er sah nicht auf, als wir hereinkamen.
 
-Das war er. Traxigor. Sylvira Savikas hatte uns zu einem Erzmagier geschickt, weil es keinen zweiten gibt, der uns dorthin bringen kann, wohin wir müssen.
+Das war er. Traxigor. Sylvira Savikas hatte uns zu einem Erzmagier geschickt, weil es keinen zweiten gibt, der uns dorthin bringen kann, wohin wir müssen: nach Elturel, das nicht mehr dort steht, wo es stand.
 
 Ein Otter.
 
@@ -42,6 +42,8 @@ Ich trage etwas, das ich nicht ablegen kann, und ich habe es mir selbst umgehän
 Ich beneidete ihn nicht. Ich schreibe es trotzdem hier hinein, damit ich es nachlesen kann.
 
 Was meine Gefährten mit ihm aushandelten und womit, weiß ich nicht. Ich stand dabei. Ich hörte Stimmen. Ich sah woandershin.
+
+Einig wurden sie. Das bekam ich mit, weil die Stimmen sich legten und weil Cassia danach anders stand. Er bringt uns hinüber.
 
 Cassia sagte etwas zu mir. Beim zweiten Mal sah sie mich dabei an. Ich sagte ja.
 

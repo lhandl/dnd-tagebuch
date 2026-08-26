@@ -9,7 +9,9 @@ stimmung: "Still, ohne Boden unter den Füßen"
 ---
 Man zahlte uns aus. Nicht in Münzen. In Mauern.
 
-Was uns bei unserem ersten Auftrag versprochen wurde — damals hielt ich es für die übliche Münze, mit der Behörden Fremde abspeisen —, das steht nun tatsächlich: ein Haus in der Unterstadt, dort wo die Gassen ansteigen und die Oberstadt beginnt. Schmal, zwei Geschosse, eine Tür aus Eichenholz mit neuen Bändern. Es steht. Es steht wirklich.
+Was uns Hauptmann Zodge bei unserem ersten Auftrag versprach, falls wir den Kult der Toten Drei aus dieser Stadt räumen — damals hielt ich es für die übliche Münze, mit der Behörden Fremde abspeisen —, das steht nun tatsächlich: ein Haus in der Unterstadt, dort wo die Gassen ansteigen und die Oberstadt beginnt. Schmal, zwei Geschosse, eine Tür aus Eichenholz mit neuen Bändern. Es steht. Es steht wirklich.
+
+Der Kult ist ausgeräumt, die Herzogin tot — so steht es im Papier der Faust, und ich habe keinen Grund, an dieser Zeile zu zweifeln. Das ist die Rechnung dieser Tage, und sie geht auf, solange man nur zählt, was jemand aufgeschrieben hat.
 
 Dazu ein Zeichen, flach und kalt, kaum größer als mein Daumen. Man schließt die Hand darum und spricht darüber, und dann ist die Gasse fort. Ein Ruck, Asche auf der Zunge, und man steht drin. Das Zeichen wird warm und gleich darauf kalt, und kalt bleibt es, bis sich die Woche schließt.
 
