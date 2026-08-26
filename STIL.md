@@ -3,6 +3,29 @@
 Gilt für jeden Eintrag, zusätzlich zum Charakterbogen. Der Schreib-Skill prüft
 dagegen, BEVOR ein Eintrag abgegeben wird.
 
+## Zwei Aufgaben — beide gelten
+
+Dieses Tagebuch ist **kein reiner Stimmungstext**. Es ist zugleich der Anhaltspunkt, an
+dem der Spieler und seine Mitspieler nachlesen, was geschehen ist. Daraus folgt eine
+Pflicht, die der Ton nicht aufheben darf:
+
+**Der Fortgang muss ersichtlich sein.** Wer wurde getroffen, was wurde herausgefunden,
+was wurde beschlossen, was steht als Nächstes an. Namen von Personen und Orten fallen,
+wo sie fallen müssen. Eine Erkenntnis, die die Gruppe gewonnen hat, steht im Eintrag —
+nicht nur die Erschütterung darüber.
+
+**Wichtige Auskünfte werden benannt, nicht angedeutet.** Wenn jemand der Gruppe etwas
+Entscheidendes sagt, muss hinterher klar sein, *was* gesagt wurde. Andeutung ist ein
+Stilmittel für Gefühle, nicht für Tatsachen.
+
+Das steht **nicht** im Widerspruch zur Wissensgrenze: Was die Figur nicht wissen kann,
+bleibt draußen. Aber was sie weiß, darf sie aufschreiben — und soll es, wenn es für den
+weiteren Weg zählt. Im Zweifel gilt: Lieber ein Satz zu viel über die Sache als ein
+Eintrag, aus dem drei Wochen später niemand mehr herausliest, was eigentlich geschah.
+
+Der Ton bleibt ihrer — sie führt kein Protokoll. Aber ein Tagebuch, das nur Stimmung
+enthält, hat seine halbe Aufgabe verfehlt.
+
 ## Form
 
 - **Länge:** 300–800 Wörter. Ein Abend, kein Roman.
