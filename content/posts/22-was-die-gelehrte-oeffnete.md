@@ -97,16 +97,40 @@ Den Schild, den wir aus jenem Haus mitbrachten, wollte sie nicht in ihrer Nähe 
 
 Wir schlossen ihn weg.
 
+Und dann sagte sie das, was mich jetzt wachhält.
+
+Von einem solchen Vertrag gibt es nicht ein Blatt. Es gibt zwei. Zwei Ausfertigungen, Wort für Wort dieselben, und jede Seite hält eine. Wir haben Kreegs. Die andere hat Zariel.
+
+Wer einen solchen Vertrag brechen will, braucht beide.
+
+Sie sagte es ruhig, wie sie alles sagte, und legte das Pergament dabei zusammen, Kante auf Kante. Ich sah ihren Händen zu und dachte zum ersten Mal seit Wochen einen Gedanken, der nach vorn ging: Es geht also.
+
+Ich fragte, ob sie weiß, wo Zariels Blatt liegt.
+
+Sie sagte nein.
+
+Was „brechen" heißt, weiß ich nicht. Ob man ein solches Blatt zerreißt, ob man es verbrennt, ob einer dabei sprechen muss und wer das sein darf — sie hat es nicht gesagt.
+
+Ich habe nicht gefragt.
+
 Und dann sagte sie das Einzige, weswegen ich diesen Abend aushalte: Man kommt dorthin.
 
 Es gibt einen Magier, Traxigor heißt er, und sie schrieb uns auf, wo er zu finden ist; er kann uns hinüberbringen. Sie gab uns eine Karte von Elturel, wie es war, mit der großen Halle darauf. Sie fragte nicht, ob wir gehen wollen. Sie fragte, wann wir aufbrechen.
 
 Morgen. Wir brechen morgen auf.
 
+Heute Abend ließ ich mir das schwarze Buch noch einmal bringen. Es gehört jetzt ihnen, und man reicht es einem hier heraus wie jedes andere; der Mann, der es trug, wusch sich hinterher nicht die Hände.
+
+Ich las die Seiten über die Verträge zum dritten Mal, bei einer Kerze, die ich zweimal nachsetzen musste. Wie man einen schließt, steht darin — jeder Strich, jedes Wort, jede Frist. Wie man einen wieder aufbekommt, steht nicht darin. Keine Zeile, kein Satz, nicht einmal die Bemerkung, dass es nicht ginge.
+
+Zweimal an diesem Tag hat mir dieses Buch genützt. Beim dritten Mal schweigt es.
+
 Ich habe heute niemanden erschlagen und keinen Toten gezählt, und ich bin müder als nach dem Keller der Herzogin.
 
 Fünfzig Jahre lang hielten sie den Begleiter für ein Wunder. Sie haben unter einer Quittung gelebt.
 
 Zum ersten Mal, seit das Licht über Elturel ausging, weiß ich, wohin ich muss. Es ist der schlechteste Ort, den ich mir denken kann.
+
+Zariel hält ein Blatt Papier. Ich weiß nicht, wo. Ich weiß, bei wem.
 
 Ich werde hingehen.
