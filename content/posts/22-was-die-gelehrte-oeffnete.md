@@ -3,7 +3,7 @@ title: "Was die Gelehrte öffnete"
 date: 2026-08-25T12:00:00+02:00
 draft: false
 tags: ["Lücke"]
-zeit: "Ches 1492 DR"
+zeit: "Tarsakh 1492 DR"
 ort: "Candlekeep"
 stimmung: "Erschüttert bis ins Mark"
 platzhalter: true

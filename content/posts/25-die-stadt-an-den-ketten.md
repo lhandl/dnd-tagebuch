@@ -3,7 +3,7 @@ title: "Die Stadt an den Ketten"
 date: 2026-08-25T15:00:00+02:00
 draft: false
 tags: ["Elturel", "Avernus", "Zariel", "der Begleiter", "Blutkrieg", "Styx", "Reya Mantlemorn", "Lulu", "Candlekeep"]
-zeit: "Ches 1492 DR"
+zeit: "Tarsakh 1492 DR"
 ort: "Elturel, ein ausgebranntes Torhaus nahe dem Rand"
 stimmung: "Aschig und hellwach"
 ---

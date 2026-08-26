@@ -3,7 +3,7 @@ title: "Der Ritt zur Brücke"
 date: 2026-08-25T16:00:00+02:00
 draft: false
 tags: ["Elturel", "Avernus", "Eid der Rache", "Hallen der Gerechtigkeit"]
-zeit: "Ches 1492 DR"
+zeit: "Tarsakh 1492 DR"
 ort: "Elturel, jenseits des Spalts"
 stimmung: "Aufrecht, und darüber unruhig"
 ---

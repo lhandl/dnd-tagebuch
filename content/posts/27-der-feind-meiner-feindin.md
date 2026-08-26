@@ -3,7 +3,7 @@ title: "Der Feind meiner Feindin"
 date: 2026-08-25T17:00:00+02:00
 draft: false
 tags: ["Elturel", "Avernus", "Zariel", "Blutkrieg", "Lulu", "Candlekeep"]
-zeit: "Ches 1492 DR"
+zeit: "Tarsakh 1492 DR"
 ort: "Elturel, eine Gasse zwei Höfe vor der großen Halle"
 stimmung: "Bestätigt, und das ist das Schlimmste"
 ---
