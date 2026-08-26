@@ -11,7 +11,7 @@
     <div class="blatt-inhalt">
       <h2 class="blatt-ueberschrift"><a class="blatt-titel" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <p class="zeile-meta">
-        <span class="kapitale">{{ .Params.zeit | default (partial "datum.html" .Date) }}</span>
+        <span class="kapitale">{{ .Params.zeit | default (partial "datum.html" .Date) }}</span>{{ if .Params.platzhalter }}<span class="unbeschrieben">noch nicht beschrieben</span>{{ end }}
         {{ with .Params.ort }}<span class="ort">{{ . }}</span>{{ end }}
       </p>
       {{ with .Params.stimmung }}<p class="stimmung-zeile">{{ . }}</p>{{ end }}
