@@ -2,7 +2,7 @@
 title: "Der Ritt zur Brücke"
 date: 2026-08-25T16:00:00+02:00
 draft: false
-tags: ["Elturel", "Avernus", "Eid der Rache", "Hallen der Gerechtigkeit"]
+tags: ["Elturel", "Avernus", "Eid der Rache", "Hallen der Gerechtigkeit", "Torm"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, jenseits des Spalts"
 stimmung: "Aufrecht, und darüber unruhig"
@@ -24,6 +24,10 @@ Dann saß ich auf.
 Die Straße zur Brücke ist gerade und lang, und ich nahm sie im Schritt. Nicht im Trab. Im Schritt. Hinter mir gingen meine Gefährten, und ich hörte, wie ihre Schritte sich in meine ordneten, ohne dass jemand ein Wort darüber verlor.
 
 Von den Brücken über den Spalt wählten wir die, die am geradesten auf die Hohe Halle zuläuft. Es gibt keine, auf der niemand steht; da nimmt man die kürzeste.
+
+Sie heißt Torms Arm; die andere, weiter drüben, heißt Torms Klinge. Reya sagte uns die Namen. Beide sind ihm geweiht, und in die Pfeiler sind Runen geschlagen, tief und alt, mit Ruß in den Rillen.
+
+Ich gehöre einem Orden an, in dem sein Name steht, und ich ritt über seine Runen in diese Stadt hinein.
 
 Seit dem Sumpf ging ich durch Wasser, durch Keller, durch Gülle. Heute ging ich über niemanden gebückt. Man sah mich schon von weitem, und das war die Absicht.
 
@@ -48,4 +52,3 @@ Doch was mir gefiel, war nicht, dass vier Teufel von einer Brücke wichen. Es wa
 Auf der anderen Seite ließ ich es gehen. Es löste sich auf, wie Atem sich auflöst, und der Fleck Licht, den es warf, ging mit. Der Boden darunter war wieder derselbe Boden.
 
 Ich brauche es morgen wieder, und ich werde es rufen. Den Kragen richte ich diesmal nur einmal.
-

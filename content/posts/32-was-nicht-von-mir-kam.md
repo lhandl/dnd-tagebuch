@@ -2,7 +2,7 @@
 title: "Was nicht von mir kam"
 date: 2026-08-26T15:00:00+02:00
 draft: false
-tags: ["Elturel", "die Hohe Halle", "die Katakomben", "Torm", "Reya Mantlemorn"]
+tags: ["Elturel", "die Hohe Halle", "die Katakomben", "Torm", "Pherria Jynks", "Reya Mantlemorn"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, in den Katakomben unter der Hohen Halle"
 stimmung: "Erfüllt, und ratlos darüber"
@@ -25,7 +25,7 @@ Sie schrien nicht, und sie freuten sich nicht. Sie sahen auf, sahen das Eisen, s
 
 Ich habe Angst gesehen und Zorn und beides in derselben Stunde. Das hier war keines von beidem. Das ist der Rest, der bleibt, wenn beides aufgebraucht ist.
 
-Eine von ihnen stand auf, als wir die Treppe herunterkamen, und stellte sich vor die anderen. Sie hatte nichts in den Händen. Sie redete für alle, sie sagte, wer krank liegt und wo, und als wir wieder hinaufgingen, teilte sie zwei ein, die uns die Lampen trugen.
+Eine von ihnen, Pherria Jynks, stand auf, als wir die Treppe herunterkamen, und stellte sich vor die anderen. Sie hatte nichts in den Händen. Sie redete für alle, sie sagte, wer krank liegt und wo, und als wir wieder hinaufgingen, teilte sie zwei ein, die uns die Lampen trugen.
 
 Wir holten die Unseren herunter.
 
@@ -49,7 +49,7 @@ Hier lag keiner.
 
 Ich weiß nicht, was ich damit anfangen soll. Ich schreibe es hin, weil es geschehen ist, und ich schreibe nicht dazu, wofür ich es halte.
 
-Ein paar sprachen die letzten Worte mit. Nicht viele. Einer, der an der Wand gesessen hatte, stand dabei auf und blieb stehen, bis ich fertig war. Die, die für sie redet, sah mich an und sah nicht weg.
+Ein paar sprachen die letzten Worte mit. Nicht viele. Einer, der an der Wand gesessen hatte, stand dabei auf und blieb stehen, bis ich fertig war. Pherria sah mich an und sah nicht weg.
 
 Es hat ihnen Mut gemacht. Nicht viel. Ein wenig.
 

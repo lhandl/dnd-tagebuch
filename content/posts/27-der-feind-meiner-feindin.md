@@ -9,7 +9,7 @@ stimmung: "Bestätigt, und das ist das Schlimmste"
 ---
 Ich verstehe nicht, wozu Heimlichkeit gut sein soll.
 
-Ein Mann, der sich duckt, wird ein Mann, der geduckt geht. Ich tat es in Kanälen, unter Tempeln, in fremden Höfen, und jedes Mal kam ich schmutziger heraus, als ich hineinging. Gestern stand ich auf einer Brücke aufrecht, und es half. Heute sagten meine Gefährten, die großen Straßen seien nicht mehr zu gehen, wir zögen zu viel auf uns.
+Ein Mann, der sich duckt, wird ein Mann, der geduckt geht. Ich tat es in Kanälen, unter Tempeln, in fremden Höfen, und jedes Mal kam ich schmutziger heraus, als ich hineinging. Gestern stand ich auf Torms Arm aufrecht, und es half. Heute sagten meine Gefährten, die großen Straßen seien nicht mehr zu gehen, wir zögen zu viel auf uns.
 
 Hinter uns gingen inzwischen Leute. Erst zwei. Dann ein Dutzend. Sie fragten nicht, wohin. Einer trug ein Kind auf dem Arm, das nicht schrie, weil es dafür zu lange nichts getrunken hatte.
 
