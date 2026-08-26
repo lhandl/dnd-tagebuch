@@ -2,7 +2,7 @@
 title: "Der Vertrag, den er für alle unterschrieb"
 date: 2026-08-25T12:00:00+02:00
 draft: false
-tags: ["Candlekeep", "Sylvira Savikas", "Thavius Kreeg", "Zariel", "Avernus", "Elturel", "Seelenmünze", "Das schwarze Buch", "Reya Mantlemorn", "Traxigor"]
+tags: ["Candlekeep", "Sylvira Savikas", "Thavius Kreeg", "Zariel", "Avernus", "Elturel", "Elturgard", "der Gefährte", "Seelenmünze", "Das schwarze Buch", "Reya Mantlemorn", "Höllenreiter", "Traxigor"]
 zeit: "Tarsakh 1492 DR"
 ort: "Candlekeep, eine Kammer für Gäste"
 stimmung: "Erschüttert bis ins Mark"
@@ -51,13 +51,17 @@ Ich nahm eine in die Hand. Ich schloss die Faust darum, ganz, wie man etwas häl
 
 Das ist wenig. Ich weiß.
 
-In der zweiten Schachtel, der aus dem Haus der Herzogin, lag ein Vertrag. Dunkles Pergament, eng beschrieben, und unter dem letzten Absatz ein Name, den ich kenne: Thavius Kreeg.
+In der zweiten Schachtel, der aus dem Haus der Herzogin, lag kein Pergament.
 
-Sie las ihn uns vor und sagte dazu, was die Windungen bedeuten. Ich schreibe es auf, so genau ich es behalten habe, weil ich es nachlesen will, wenn ich es morgen für einen Traum halte.
+Es waren Platten. Dunkles Eisen, gegossen, jede kaum größer als mein Handteller, und sie hingen aneinander wie die Blätter eines Buches, das man nicht zuschlagen kann. In das Metall waren Zeichen eingeprägt, tief und sauber, in geraden Reihen. Ich hob das Ganze an. Es war schwerer, als es aussah, und es war kalt, wo die Münzen warm gewesen waren.
 
-Vor fünfzig Jahren stand Elturel vor dem Untergang. Kreeg suchte Hilfe, und er fand sie — nicht bei einem Engel, wie sie es in Elturgard bis heute erzählen, sondern bei Zariel, einem Erzteufel, der über eine Ebene der Neun Höllen gebietet. Sie heißt Avernus.
+Auf der letzten Platte stand ein Name. Sylvira las die Zeichen aus dem Infernalischen, den Finger auf den Reihen, und sprach ihn aus: Thavius Kreeg, Hoher Aufseher von Elturel.
 
-Zariel gab das Licht. Der Begleiter, die zweite Sonne, unter der Elturgard fünfzig Jahre lang sicher schlief, war ihr Werk.
+Sie las uns das Ganze vor und sagte dazu, was die Windungen bedeuten. Ich schreibe es auf, so genau ich es behalten habe, weil ich es nachlesen will, wenn ich es morgen für einen Traum halte.
+
+Vor fünfzig Jahren stand Elturel vor dem Untergang. Kreeg suchte Hilfe, und er fand sie — nicht bei einem Engel, wie sie es in Elturgard bis heute erzählen, sondern bei Zariel, der Fürstin von Avernus. Avernus ist eine Ebene der Neun Höllen.
+
+Zariel gab das Licht. Der Gefährte, die zweite Sonne, unter der Elturgard fünfzig Jahre lang sicher schlief, war ihr Werk.
 
 Der Preis war die Stadt.
 
@@ -69,11 +73,45 @@ Cassia fragte, ob so etwas denn gelte, wenn niemand die Leute gefragt hat.
 
 „Es steht im Vertrag", sagte Sylvira.
 
-Ich wusste, was das heißt, ehe sie es aussprach. Ein Teufel hält sein Wort, und er hält es punktgenau — nicht, wie es gemeint war, sondern wie es dasteht. Kreeg schrieb Elturel. Elturel bekamen sie.
+Ich wusste, was das heißt, ehe sie es aussprach. Ein Teufel hält sein Wort, und er hält es punktgenau — nicht, wie es gemeint war, sondern wie es dasteht. Woher ich das weiß, steht ein paar Seiten weiter vorn in diesem Buch.
 
-Woher ich das weiß, steht ein paar Seiten weiter vorn in diesem Buch.
+Also bat ich sie, die Zeilen noch einmal zu lesen. Langsam.
 
-Als die Frist ablief, war Kreeg nicht in seiner Stadt. Er war in Baldurs Tor.
+Seit dem schwarzen Buch lese ich anders. Ich frage nicht mehr zuerst, was einer schreibt. Ich frage, wie weit er es fasst. Drei Dinge fielen mir auf, und jedes ist ärger als das, was ich weiter oben aufgeschrieben habe.
+
+Ich schrieb: der Preis war die Stadt. Das ist zu klein.
+
+An Zariel fällt nicht Elturel. An Zariel fallen „alle Lande, die unter dem Licht des Gefährten liegen". Das Licht lag fünfzig Jahre über Feldern, über Weilern, über Straßen, die drei Tagesritte weit sind, über jedem Hof, der es abends noch am Himmel sah. Wer sagt: die Stadt, hat den halben Satz gelesen. Es ist Elturgard.
+
+Und es fallen nicht die Bürger. Es fallen „alle Personen, die durch einen Eid gebunden sind, Elturel zu verteidigen".
+
+Kein Name steht in diesem Eisen. Kein einziger. Es steht dort, wer gemeint ist, und wer die Beschreibung erfüllt, ist gemeint — damals, heute, morgen. Ein Eid, den einer vor drei Jahren sprach, greift so gut wie einer von vor fünfzig.
+
+Reya stand an der Wand, wo sie den ganzen Nachmittag stand, und ich rechnete, statt hinzusehen.
+
+Sie ist Höllenreiterin. Sie hat einen Eid geschworen, und der Eid heißt: Elturel verteidigen. Dass sie an jenem Tag außerhalb der Mauern war, hat sie verschont. So sagt man es ihr seit Wochen, und sie hat es geglaubt, und ich habe es ihr geglaubt.
+
+Es steht kein Name in diesem Eisen. Es steht eine Beschreibung. Sie erfüllt sie, Wort für Wort.
+
+Ich behielt es für mich.
+
+Ich weiß, wie ich sonst bin. Ich spreche solche Sätze aus, ehe ich sie zu Ende gedacht habe, und ich habe das immer für Aufrichtigkeit gehalten. Diesmal sah ich auf den Tisch und ließ es liegen.
+
+Ob sie es selbst mitgezählt hat, weiß ich nicht. Sie stand da wie vorher und sah nicht auf.
+
+Ich sah wieder auf das Eisen, weil ich nicht auf sie sehen wollte. Da stand noch das Dritte.
+
+Die fünfzig Jahre kannte man in Elturgard, wie man weiß, wann eine Pacht ausläuft. Sie stehen auch dort: Nach fünfzig Jahren kehrt der Gefährte dorthin zurück, woher er kam, und nimmt Elturel und seine eidgebundenen Verteidiger mit sich — „falls dies Zariels Wille ist".
+
+Fünf Worte, ganz am Ende.
+
+Es lief nichts ab. Es wurde nichts fällig. Der Tag stand fest, und was an diesem Tag geschieht, stand nicht fest; das hing an ihrem Willen und an nichts sonst. Kreeg hat seiner Stadt eine Frist verkauft. Verkauft hat er ihr eine Wahl, und die Wahl gehört nicht ihm.
+
+Danach nahm ich die Platten noch einmal auf, wegen des Anfangs. Der kommt vor allem anderen, ehe von Landen und Personen die Rede ist. Kreeg unterwirft sich ihr in allem und für alle Zeit, stellt sie über jedes Geschöpf, lebendes und totes, und verspricht ihr Gehorsam über seinen Tod hinaus, in Furcht und Unterwürfigkeit.
+
+Ich habe in den Hallen der Gerechtigkeit einen Eid gesprochen, der genauso gebaut ist. Nur nach oben.
+
+Als es so weit war, war Kreeg nicht in seiner Stadt. Er war in Baldurs Tor.
 
 Dann sagte sie den Satz, an dem der Abend zerbrach: Elturel wurde nicht zerstört.
 
@@ -87,7 +125,7 @@ Ich habe heute Abend eine ganze Stadt von der Liste der Toten gestrichen. Es war
 
 Wozu Zariel das tut, sagte Sylvira ebenfalls. Sie führt Krieg, unten in Avernus, und sie bezahlt ihn mit Seelen. Eine ganze Stadt ist für sie kein Volk. Sie ist Münze.
 
-Reya Mantlemorn stand an der Wand und sagte den ganzen Nachmittag kein Wort. Sie hat für Kreeg gesprochen, öfter, als ihr heute lieb sein dürfte. Als der Name unter dem Vertrag fiel, sah sie auf ihre Hände. Ich sah sie an und sah wieder weg, weil sie nicht angesehen werden wollte.
+Reya Mantlemorn sagte den ganzen Nachmittag kein Wort. Sie hat für Kreeg gesprochen, öfter, als ihr heute lieb sein dürfte. Als sein Name fiel, sah sie auf ihre Hände. Ich sah sie an und sah wieder weg, weil sie nicht angesehen werden wollte.
 
 Ich stand vor diesem Mann. Er hing in Ketten in einem Keller unter dem Haus der Herzogin, und ich dachte: Dem geschieht Unrecht.
 
@@ -99,17 +137,17 @@ Wir schlossen ihn weg.
 
 Und dann sagte sie das, was mich jetzt wachhält.
 
-Von einem solchen Vertrag gibt es nicht ein Blatt. Es gibt zwei. Zwei Ausfertigungen, Wort für Wort dieselben, und jede Seite hält eine. Wir haben Kreegs. Die andere hat Zariel.
+Von einem solchen Vertrag gibt es nicht ein Stück Eisen. Es gibt zwei. Zwei Ausfertigungen, Zeichen für Zeichen dieselben, und jede Seite hält eine. Wir haben Kreegs. Die andere hat Zariel.
 
 Wer einen solchen Vertrag brechen will, braucht beide.
 
-Sie sagte es ruhig, wie sie alles sagte, und legte das Pergament dabei zusammen, Kante auf Kante. Ich sah ihren Händen zu und dachte zum ersten Mal seit Wochen einen Gedanken, der nach vorn ging: Es geht also.
+Sie sagte es ruhig, wie sie alles sagte, und legte die Platten dabei aufeinander, Kante auf Kante. Ich sah ihren Händen zu und dachte zum ersten Mal seit Wochen einen Gedanken, der nach vorn ging: Es geht also.
 
-Ich fragte, ob sie weiß, wo Zariels Blatt liegt.
+Ich fragte, ob sie weiß, wo Zariels Ausfertigung liegt.
 
 Sie sagte nein.
 
-Was „brechen" heißt, weiß ich nicht. Ob man ein solches Blatt zerreißt, ob man es verbrennt, ob einer dabei sprechen muss und wer das sein darf — sie hat es nicht gesagt.
+Was „brechen" heißt, weiß ich nicht. Ob man solches Eisen zerschlägt, ob man es schmilzt, ob einer dabei sprechen muss und wer das sein darf — sie hat es nicht gesagt.
 
 Ich habe nicht gefragt.
 
@@ -119,7 +157,25 @@ Es gibt einen Magier, Traxigor heißt er, und sie schrieb uns auf, wo er zu find
 
 Morgen. Wir brechen morgen auf.
 
-Heute Abend ließ ich mir das schwarze Buch noch einmal bringen. Es gehört jetzt ihnen, und man reicht es einem hier heraus wie jedes andere; der Mann, der es trug, wusch sich hinterher nicht die Hände.
+Am Abend saß Reya Mantlemorn im Hof auf einer Stufe. Ich setzte mich dazu, weil mir seit dem Turm eine Frage nachging, die keine Schriftrolle beantwortet: Was für ein Wesen hält das zweite Stück.
+
+Sie erklärte nichts. Sie erzählte, was die Höllenreiter einander erzählen, und sie sagte zweimal, dass sie nicht dabei gewesen ist.
+
+Ihr Orden ist einmal hinuntergezogen. Nach Avernus, mit Pferden und Bannern, in die Hölle hinein — daher der Name, den sie tragen, und ich hatte ihn für ein großes Wort gehalten, wie Orden sie sich gern geben.
+
+Zuerst stand es schlecht, sagt man. Sehr schlecht. Und danach sprechen sie von einem glorreichen Sieg.
+
+Was zwischen dem einen und dem anderen liegt, sagte sie nicht. Nicht, weil sie schweigen wollte — sie weiß es nicht, und keiner von ihnen weiß es. Dort muss etwas geschehen sein, das alles gewendet hat. Wir haben den ganzen Abend geraten und sind zu nichts gekommen.
+
+Geführt hat sie ein Engel.
+
+Reya sagte den Namen leise, so wie man einen Namen sagt, den man als Kind gelernt hat.
+
+Zariel.
+
+Ich sagte nichts dazu. Ich stand auf und ging in die Kammer, und auf dem Weg dachte ich zum ersten Mal darüber nach, was aus einem Eid wird, der nicht hält.
+
+Danach ließ ich mir das schwarze Buch noch einmal bringen. Es gehört jetzt ihnen, und man reicht es einem hier heraus wie jedes andere; der Mann, der es trug, wusch sich hinterher nicht die Hände.
 
 Ich las die Seiten über die Verträge zum dritten Mal, bei einer Kerze, die ich zweimal nachsetzen musste. Wie man einen schließt, steht darin — jeder Strich, jedes Wort, jede Frist. Wie man einen wieder aufbekommt, steht nicht darin. Keine Zeile, kein Satz, nicht einmal die Bemerkung, dass es nicht ginge.
 
@@ -127,10 +183,10 @@ Zweimal an diesem Tag hat mir dieses Buch genützt. Beim dritten Mal schweigt es
 
 Ich habe heute niemanden erschlagen und keinen Toten gezählt, und ich bin müder als nach dem Keller der Herzogin.
 
-Fünfzig Jahre lang hielten sie den Begleiter für ein Wunder. Sie haben unter einer Quittung gelebt.
+Fünfzig Jahre lang hielten sie den Gefährten für ein Wunder. Sie haben unter einer Quittung gelebt.
 
 Zum ersten Mal, seit das Licht über Elturel ausging, weiß ich, wohin ich muss. Es ist der schlechteste Ort, den ich mir denken kann.
 
-Zariel hält ein Blatt Papier. Ich weiß nicht, wo. Ich weiß, bei wem.
+Zariel hält eine Handvoll Eisen. Ich weiß nicht, wo. Ich weiß, bei wem.
 
 Ich werde hingehen.

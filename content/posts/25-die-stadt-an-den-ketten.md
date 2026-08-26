@@ -2,7 +2,7 @@
 title: "Die Stadt an den Ketten"
 date: 2026-08-25T15:00:00+02:00
 draft: false
-tags: ["Elturel", "Avernus", "Zariel", "der Begleiter", "Blutkrieg", "Styx", "Reya Mantlemorn", "Lulu", "Candlekeep"]
+tags: ["Elturel", "Avernus", "Zariel", "der Gefährte", "Blutkrieg", "Styx", "Reya Mantlemorn", "Lulu", "Candlekeep"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, ein ausgebranntes Torhaus nahe dem Rand"
 stimmung: "Aschig und hellwach"
@@ -15,7 +15,7 @@ Lulu flog ein Stück voraus und kam zurück, und dabei fiel mir etwas auf, was m
 
 Dann sah ich sie.
 
-Elturel. Nicht zerschlagen, nicht ausgebrannt, nicht in den Boden gestampft. Ganz. Dächer, Türme, Mauern, alles an seinem Platz, wie es dort stand, als der Name noch etwas anderes bedeutete. Nur hängt es. Ketten, jede dick wie ein Turm, laufen von den Klippen der Stadt hinauf ins Nichts, und ganz oben hängt der Begleiter daran, der ihre Sonne war und jetzt eine schwarze Frucht ist.
+Elturel. Nicht zerschlagen, nicht ausgebrannt, nicht in den Boden gestampft. Ganz. Dächer, Türme, Mauern, alles an seinem Platz, wie es dort stand, als der Name noch etwas anderes bedeutete. Nur hängt es. Ketten, jede dick wie ein Turm, laufen von den Klippen der Stadt hinauf ins Nichts, und ganz oben hängt der Gefährte daran, der ihre Sonne war und jetzt eine schwarze Frucht ist.
 
 Man hat sie nicht getötet. Man hat sie gestohlen.
 

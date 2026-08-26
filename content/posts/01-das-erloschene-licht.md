@@ -11,7 +11,7 @@ Der 25. Ches, im Frühling des Jahres 1492. Die Welt dachte, sie hätte nach dem
 
 Gestern kreuzte mein Weg an einer Steinbrücke über den Fluss Chionthar den einiger anderer Wanderer. Fremde. Doch die unruhige Straße zwingt oft unterschiedliche Klingen in denselben Tross, und so teilten wir das Lagerfeuer und den Weg bis in dieses Dorf, Soubar. Wir wähnten uns hinter sicheren Mauern, doch die Luft ist heute schwer und faul.
 
-Ein unnatürliches Beben erschütterte am Morgen den Boden unter meinen Stiefeln. Als ich nach Osten blickte, gefror mir das Blut. Der Begleiter – die künstliche, heilige Sonne, die Elturel in ewiges Licht tauchte – ist erloschen. Einfach weg. Wo Licht sein sollte, hängt nur ein aschfahler, kranker Nebel über dem Horizont. Die Stille, die aus dieser Richtung kriecht, ist ohrenbetäubend.
+Ein unnatürliches Beben erschütterte am Morgen den Boden unter meinen Stiefeln. Als ich nach Osten blickte, gefror mir das Blut. Der Gefährte – die künstliche, heilige Sonne, die Elturel in ewiges Licht tauchte – ist erloschen. Einfach weg. Wo Licht sein sollte, hängt nur ein aschfahler, kranker Nebel über dem Horizont. Die Stille, die aus dieser Richtung kriecht, ist ohrenbetäubend.
 
 Während wir in der örtlichen Schenke saßen, trat ein Mann der Flammenden Faust an unseren Tisch. Gerret. Seine Uniform war ordentlich, doch seine Augen verrieten die rohe Panik eines Mannes, dessen Welt gerade Risse bekommt. Sein Kamerad liegt im Hinterzimmer mit einem raubenden Fieber nieder, also wandte er sich an uns. Er legte eine versiegelte Lederrolle mit dem Wappen von Baldurs Tor auf das Holz.
 
