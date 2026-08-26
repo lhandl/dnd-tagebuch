@@ -7,18 +7,6 @@ layout: verzeichnis
 
 Dieses Verzeichnis führt auf, wem die Gruppe auf ihrem Weg gegenübergestanden hat oder von wem sie gehört hat, geordnet nach Gegenden in der Reihenfolge, in der die Chronik sie durchschritten hat. Wer an mehreren Orten vorkommt, steht mehrmals — jeweils mit dem, was dort von ihm zu sehen war. Die Spalte **Wo** nennt die Nummer des Eintrags; verzeichnet ist allein, was in den Einträgen steht.
 
-## Die Gefährten
-
-| Name | Wer das ist |
-|---|---|
-| Thalion Himmelszorn | Hochelf, Paladin des Ordens des Panzerhandschuhs, Träger des Eids der Rache. Er führt diese Chronik, und alles darin ist von ihm gesehen. |
-| Bori Fizbibel | Gnom und Erfinder, mit einer Werkstatt im Händlerviertel von Baldurs Tor. Von ihm stammt das zusammengeschusterte Brecheisen, das unter dem Badehaus mehr als eine Tür geöffnet hat. |
-| Cassia | Tritt Türen ein, wo andere klopfen, und liest, was sonst niemand in der Gruppe entziffern kann. Sie führte im Turm des Otters das Wort. |
-| Draciar Gomrul | Verfügt über einen Odem, der einen Raum voller Zombies räumt — und in der Hohen Halle einen der großen Vorhänge in Brand gesetzt hat. |
-| Ganrek | Druide. Er spricht die Zunge der Tiere; eine Ratte in der Kanalisation hat der Gruppe darüber das Leben gerettet. |
-| Benhulk | Gehört zur Gruppe. Mehr steht in dieser Chronik bislang nicht über ihn. |
-| Harlan Voss | Mann der Flammenden Faust; verschaffte der Gruppe Einlass durch das verriegelte Basilisken-Tor und gab ihr eine der beiden Rätselboxen mit. Seither kommt er nicht mehr vor. |
-
 ## Der Echsensumpf südlich von Tiefwasser
 
 *Aus Thalions Vorgeschichte, lange vor der Gruppe.*
