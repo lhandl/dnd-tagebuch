@@ -1,5 +1,6 @@
 ---
-title: "Was in dem schwarzen Buch steht"
+title: "Das schwarze Buch"
+aliases: ["/eintrag/was-in-dem-schwarzen-buch-steht/"]
 date: 2026-08-25T10:00:00+02:00
 draft: false
 tags: ["Baldurs Tor", "Das schwarze Buch", "Bhaal", "Vanthampur", "Thavius Kreeg"]
