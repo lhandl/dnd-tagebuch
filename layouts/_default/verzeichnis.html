@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{- /* Layout fuer Anhaenge der Chronik (Personenverzeichnis u. ae.).
+       Bewusst ohne Siegel, Nummer, Kopfdaten und Blaetternavigation: Das
+       sind Merkmale eines Eintrags, und ein Register ist keiner. Breiter
+       als der Fliesstext, weil Tabellen mehr Platz brauchen als eine
+       gut lesbare Zeile. */ -}}
+<article class="verzeichnis">
+  <span class="rubrik"><span aria-hidden="true">Anhang zur Chronik</span><span class="vh">Anhang zur Chronik</span></span>
+  <h1>{{ .Title }}</h1>
+
+  <div class="text text--breit">
+    {{ .Content }}
+  </div>
+
+  {{ partial "ornament.html" "schmal" }}
+</article>
+{{ end }}

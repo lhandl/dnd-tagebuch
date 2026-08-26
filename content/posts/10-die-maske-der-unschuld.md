@@ -15,7 +15,7 @@ Doch dann erreichten wir einen Kerkerraum. In den Schatten hinter Gittern sahen 
 
 In genau diesem Augenblick hallte eine Warnung in meinem Kopf wider. Rahimas Stimme: "Vertraue ihr auf keinen Fall!"
 
-Noch bevor ich den Gedanken zu Ende führen konnte, spürte ich die Bewegung. Die "Kleine" zückte einen vergifteten Dolch und stieß zu. Nur durch die Gnade der Götter und meine Aura konnte ich ihren hinterhältigen Angriff abwehren. Es war keine Unschuldige. Es war Lilli – ein Death's Head des Bhaal. Dieses hinterhältige Miststück hatte die heiligste aller Pflichten, den Schutz der Schwachen, als Falle benutzt.
+Noch bevor ich den Gedanken zu Ende führen konnte, spürte ich die Bewegung. Die "Kleine" zückte einen vergifteten Dolch und stieß zu. Nur durch die Gnade der Götter und meine Aura konnte ich ihren hinterhältigen Angriff abwehren. Es war keine Unschuldige. Es war Lilli – ein Todeskopf des Bhaal. Dieses hinterhältige Miststück hatte die heiligste aller Pflichten, den Schutz der Schwachen, als Falle benutzt.
 
 Sie verblasste vor meinen Augen, wurde unsichtbar und versuchte sich wegzuteleportieren, doch meine Gefährten bewiesen eine geistesgegenwärtige Effizienz, die mich mit Stolz erfüllt. Ganrek, unser Druide, lokalisierte sie mit seinen geschärften Sinnen, und Draciar landete einen blinden, doch perfekten Treffer im Nichts. Lilli wurde wieder sichtbar, in die Enge getrieben. Mein Langschwert fand sie, und mit dem Hieb ging jene Hitze in sie über, die mir bei solchen Kreaturen stets in den Arm fährt. Trotz all ihrer unheiligen Tricks und ihrer Zähigkeit lag die Verräterin wenig später tot im Schlamm.
 

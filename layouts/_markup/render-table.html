@@ -1,0 +1,18 @@
+{{- /* Jede Tabelle bekommt einen eigenen Scrollrahmen. Ohne ihn schiebt eine
+       breite Tabelle die ganze Seite waagrecht — auf dem Telefon der haeufigste
+       Layoutfehler. tabindex="0" macht den Rahmen per Tastatur scrollbar, sonst
+       kaeme man ohne Maus nicht an die abgeschnittenen Spalten. */ -}}
+<div class="tabellenrahmen" tabindex="0" role="region" aria-label="Tabelle">
+<table>
+  {{ with .THead }}<thead>
+    {{ range . }}<tr>
+      {{ range . }}<th {{ with .Alignment }}style="text-align: {{ . }}"{{ end }}>{{ .Text }}</th>{{ end }}
+    </tr>{{ end }}
+  </thead>{{ end }}
+  {{ with .TBody }}<tbody>
+    {{ range . }}<tr>
+      {{ range . }}<td {{ with .Alignment }}style="text-align: {{ . }}"{{ end }}>{{ .Text }}</td>{{ end }}
+    </tr>{{ end }}
+  </tbody>{{ end }}
+</table>
+</div>

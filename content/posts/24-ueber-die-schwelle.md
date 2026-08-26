@@ -11,7 +11,7 @@ platzhalter: true
 
 *An dieser Stelle fehlt ein Eintrag.*
 
-Was hier stehen soll: die Fahrt mit dem Spelljammer nach Elturel.
+Was hier stehen soll: die Überfahrt nach Elturel auf dem Schiff, das durch die Luft segelt.
 
 Die Seiten sind vorbereitet und noch nicht beschrieben — die Aufzeichnung dieser
 Tage steht aus. Sie wird nachgetragen.

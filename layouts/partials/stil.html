@@ -449,4 +449,40 @@ em{font-style:italic}
   a{color:#000;text-decoration:none}
   .text{max-width:none}
 }
+
+/* --- Verzeichnis (Anhang): Tabellen --- */
+.verzeichnis{max-width:var(--band);margin:0 auto}
+.text--breit{max-width:none}
+.text--breit h2{
+  font-family:var(--zierschrift);font-size:var(--grad-h2);
+  margin:2.6rem 0 .2rem;padding-bottom:.35rem;
+  border-bottom:1px solid var(--linie-stark);color:var(--tinte)}
+.text--breit h2:first-child{margin-top:.8rem}
+.text--breit h3{font-family:var(--zierschrift);font-size:1.05rem;
+  letter-spacing:.06em;margin:1.8rem 0 .1rem;color:var(--matt)}
+/* Waagrecht scrollen statt die Seite sprengen: lange Namen und schmale
+   Telefone vertragen sich sonst nicht. tabindex macht den Rahmen per
+   Tastatur erreichbar, sonst kaeme man an den abgeschnittenen Teil nicht heran. */
+.text--breit .tabellenrahmen{overflow-x:auto;margin:.9rem 0 1.6rem;
+  border:1px solid var(--linie);background:var(--flaeche);
+  box-shadow:var(--kante)}
+.text--breit .tabellenrahmen:focus-visible{outline:2px solid var(--fokus);outline-offset:2px}
+.text--breit table{border-collapse:collapse;width:100%;min-width:34rem;
+  font-size:var(--grad-klein);line-height:1.5}
+.text--breit thead th{
+  font-family:var(--zierschrift);font-weight:600;
+  font-size:var(--grad-winzig);letter-spacing:var(--sperrung);
+  text-transform:uppercase;text-align:left;color:var(--gold-schrift);
+  padding:.7rem .9rem;border-bottom:1.5px solid var(--linie-stark);
+  white-space:nowrap}
+.text--breit tbody td{padding:.62rem .9rem;vertical-align:top;
+  border-bottom:1px solid var(--linie)}
+.text--breit tbody tr:last-child td{border-bottom:none}
+.text--breit tbody tr:nth-child(odd){background:rgba(195,171,121,.07)}
+.text--breit tbody td:first-child{font-weight:600;color:var(--tinte);white-space:nowrap}
+.text--breit tbody td:last-child{color:var(--matt);white-space:nowrap;
+  font-variant-numeric:tabular-nums}
+@media (max-width:34rem){
+  .text--breit tbody td:first-child{white-space:normal}
+}
 </style>
