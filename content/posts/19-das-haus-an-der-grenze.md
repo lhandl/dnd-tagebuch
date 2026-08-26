@@ -15,6 +15,14 @@ Dazu ein Zeichen, flach und kalt, kaum größer als mein Daumen. Man schließt d
 
 So lange, wie eine Kerze eine Handbreit herunterbrennt. Länger nicht. Es fragt einen nicht.
 
+Ehe es zum ersten Mal trug, musste es gebunden werden, und dazu brauchte es von jedem von uns einen Tropfen Blut.
+
+Ein Messer ging herum. Einer von der Faust hielt das Zeichen dazwischen hin und wartete, bis jeder an der Reihe gewesen war. Ich setzte die Schneide an den Ballen unter dem Daumen und drückte. Es tat nicht weh. Der Tropfen fiel und lag einen Atemzug lang obenauf, rund und dunkel, ehe das Metall ihn nahm.
+
+Dann gab ich das Messer weiter und wischte die Hand am Waffenrock ab.
+
+Allein hätte es keinen von uns hineingelassen. So ist es gemacht.
+
 Drinnen riecht es nach Kalk, nach kaltem Stein und nach niemandem. Ein Herd, in dem noch kein Feuer war. Acht Stufen nach oben. Ein Fenster, das nach Norden geht, und wenn man daneben tritt und den Hals reckt, sieht man die Dächer derer, die uns vor wenigen Tagen noch wie Bettler von ihren Toren wiesen.
 
 Ich blieb stehen. Ich setzte mich nicht ein einziges Mal.
@@ -30,4 +38,3 @@ Ich weiß nicht, wem ich davon schreiben sollte.
 In sieben Tagen wird das Zeichen wieder warm. Ich werde dann auf der Straße nach Candlekeep sein, mit Staub in den Zähnen, und das Haus wird stehen und leer sein und nach Kalk riechen.
 
 Häuser können warten. Ich nicht.
-
