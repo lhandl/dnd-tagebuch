@@ -29,7 +29,7 @@ Er war nicht größer als ein Kind, ledrig, geflügelt, und er rührte sich nich
 
 Eine Gelehrte, die einen Dämon in der Ecke sitzen hat. Ich schreibe es hin und lasse es stehen. Ich brauchte, was sie weiß.
 
-Wir hatten zwei Rätselboxen dabei — die eine gab uns Harlan Voss mit, die andere nahmen wir aus dem Haus der Herzogin. Bori hat an beiden gesessen, bis ihm die Augen tränten. Cassia hat sie gedreht, beschworen und einmal gegen eine Wand geworfen.
+Wir hatten zwei Rätselboxen dabei — die eine hatte Bori schon bei sich, die andere nahmen wir aus dem Haus der Herzogin. Bori hat an beiden gesessen, bis ihm die Augen tränten. Cassia hat sie gedreht, beschworen und einmal gegen eine Wand geworfen.
 
 Sylvira sah sich beide lange an. Dann holte sie ein Fläschchen. Was darin war, glänzte silbrig und lief nicht, wie Wasser läuft — es hing zusammen und blieb ein einziger Tropfen, auch als sie es über die Naht der ersten Schachtel zog. Es zischte nicht. Es dauerte drei Atemzüge, dann gab die Naht nach.
 
@@ -39,7 +39,7 @@ Jede dieser Schachteln, sagte sie, hat ihren eigenen Kniff, und keiner sei wie d
 
 Damit war beantwortet, was Bori seit Wochen um den Schlaf gebracht hat. Er hat nichts falsch gemacht. Ihm fehlte nur, was diese Frau hat.
 
-In der ersten Schachtel, der von Harlan Voss, lagen Münzen.
+In der ersten Schachtel, der von Bori, lagen Münzen.
 
 Schwer, dunkel, größer als ein Silberstück. Sie waren wärmer, als Metall sein darf, das wochenlang in einem Bündel liegt. Ich hörte Bori neben mir einatmen, so wie man einatmet, wenn man etwas erkennt, das man nicht sehen wollte.
 
