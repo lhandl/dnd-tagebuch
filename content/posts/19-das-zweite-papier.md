@@ -1,15 +1,15 @@
 ---
 title: "Das zweite Papier"
-date: 2026-09-03T01:00:00+02:00
+date: 2026-08-24T18:00:00+02:00
 draft: false
-tags: ["Bori Fizbibel", "Vanthampur", "Thalamra Vanthampur", "Thurstwell Vanthampur", "Harlan Voss", "Reya Mantlemorn", "Schlabberlippe", "Thavius Kreeg", "Satiir Thione-Hhune", "Liara Portyr", "Elturel"]
-zeit: "Rückblick"
-ort: "Elturel, Boris Heft auf den Knien"
+tags: ["Bori Fizbibel", "Vanthampur", "Thalamra Vanthampur", "Thurstwell Vanthampur", "Harlan Voss", "Reya Mantlemorn", "Schlabberlippe", "Thavius Kreeg", "Satiir Thione-Hhune", "Liara Portyr", "Baldurs Tor"]
+zeit: "Ches 1492 DR"
+ort: "Dieselbe Kammer in Baldurs Tor, Boris Heft auf den Knien"
 stimmung: "Nüchtern, und ein Satz bleibt"
 ---
 Bori schreibt ordentlich. Das hätte ich ihm nicht zugetraut.
 
-Ich hatte meine Gefährten nach jenen Tagen gefragt, damals, als ich den Bericht der Faust gelesen hatte. Bori sagte wenig und schrieb es stattdessen auf — spät, in seiner Sprache, mit Überschriften, als wäre ein Abend in einem fremden Keller ein Versuch, den man wiederholen kann. Was hier steht, habe ich gelesen, nicht erlebt.
+Ich hatte meine Gefährten nach jenen Tagen gefragt, als ich den Bericht der Faust gelesen hatte. Bori sagte wenig und schrieb es stattdessen auf — in seiner Sprache, mit Überschriften, als wäre ein Abend in einem fremden Keller ein Versuch, den man wiederholen kann. Was hier steht, habe ich gelesen, nicht erlebt.
 
 Amrik hatte mehr verraten, als ich wusste: den ganzen Aufbau des Hauses seiner Mutter samt der Geheimgänge. „Allzu sehr scheint er nicht an seiner Frau Mama zu hängen", schreibt Bori. Sie stiegen über den Stall ein und fanden einen Gang nach unten.
 
@@ -41,4 +41,4 @@ Ich zähle die Toten. Sie stand in meiner Zählung, und sie bleibt darin. Die Fa
 
 Aber ich bekomme den Satz nicht aus dem Kopf. Asche, nach oben, und ein Flüstern.
 
-Bori schreibt, sie habe geflüstert, man sehe sich in der Hölle wieder. Ich lese das in einer Stadt, die an Ketten über ihr hängt.
+Bori schreibt, sie habe geflüstert, man sehe sich in der Hölle wieder. Es ist der einzige Satz in seinem Heft, den ich ihm nicht abnehmen will, und der einzige, den ich nicht loswerde.
