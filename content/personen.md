@@ -30,9 +30,9 @@ Dieses Verzeichnis führt auf, wem die Gruppe auf ihrem Weg gegenübergestanden 
 
 | Name | Wer das ist | Wo |
 |---|---|---|
-| Darmin Zodge | Hauptmann der Faust, übermüdet und ohne Leute. Er nahm die Depesche entgegen, heuerte die Gruppe gegen den Kult der Toten Drei an und versprach dafür Gold und ein Haus in der Unterstadt. Er hat Wort gehalten. | III, XX |
+| Darmin Zodge | Hauptmann der Faust, übermüdet und ohne Leute. Er nahm die Depesche entgegen, heuerte die Gruppe gegen den Kult der Toten Drei an und versprach dafür Gold und ein Haus in der Unterstadt. Er hat Wort gehalten. Vor der Villa Vanthampur versuchte er, die Gruppe gegen die Wachen der Stadt abzuschirmen — es half nichts, bis Portyr kam. | III, XX, XXXV |
 | Die Wachen am Basilisken-Tor | Prügelten einen Flüchtling zurück auf die Straße, der sich im Windschatten der Gruppe hindurchdrängen wollte. Thalion wies Zodge deswegen zurecht, und Zodge gab nach. | III |
-| Liara Portyr | Kommandantin der Flammenden Faust. Sie verhinderte vor der Villa Vanthampur den offenen Kampf, führte das Verhör Kreegs und schickte die Gruppe im Namen der Faust nach Candlekeep. | XIX |
+| Liara Portyr | Kommandantin der Flammenden Faust. Sie verhinderte vor der Villa Vanthampur den offenen Kampf, führte das Verhör Kreegs und schickte die Gruppe im Namen der Faust nach Candlekeep. | XIX, XXXV |
 | Der Schreiber der Faust | Gab Thalion die Abschrift dessen heraus, was über jene Tage niedergelegt war, und fragte nicht, wozu. | XIX |
 | Ulder Ravengard | Großherzog von Baldurs Tor, seit dem Fall Elturels verschwunden. Um seinetwillen schickte die Faust die Gruppe überhaupt fort — gesucht, nie gesehen. | XIX |
 
@@ -47,7 +47,7 @@ Dieses Verzeichnis führt auf, wem die Gruppe auf ihrem Weg gegenübergestanden 
 | Der Wirt der Elfenlied-Taverne | Bekam von Thalion Münzen für die zerschlagenen Möbel und die Entsorgung der Toten. | V |
 | Der Drachenkult in der Gasse | Vermummte Anhänger Tiamats, die in einer engen Gasse einen Schatz aus den Gewölben zurückforderten. Sie bekamen ihn; Thalion gab zähneknirschend nach. | XVI |
 | Laraelra Thundreth | Wirtin der Tiefen Laterne, eines umgebauten Segelschiffs im Hafen. Sie schickte die Gruppe am Nachmittag fort und ließ sie am Abend an Bord; Münzen für zerbrochenes Gut nahm sie, ohne zu fragen, wofür. | XVIII |
-| Amrik Vanthampur | Sohn der Herzogin, Geldverleiher, unter Deck der Tiefen Laterne zu finden. Er hatte seinen Bruder Mortlock in das Verlies gelockt. Unter Druck redete er über das Haus seiner Mutter und nannte den Namen Thavius Kreeg. Er kam mit dem Leben davon, unter der Bedingung, sich in Baldurs Tor nie wieder zu zeigen. | XV, XVIII |
+| Amrik Vanthampur | Sohn der Herzogin, Geldverleiher, unter Deck der Tiefen Laterne zu finden. Er hatte seinen Bruder Mortlock in das Verlies gelockt. Unter Druck redete er über das Haus seiner Mutter und nannte den Namen Thavius Kreeg. Er kam mit dem Leben davon, unter der Bedingung, sich in Baldurs Tor nie wieder zu zeigen. Nach Boris Heft verriet er dabei den ganzen Aufbau des Hauses samt der Geheimgänge. | XV, XVIII, XXXV |
 | Amriks Wachen | Warfen Thalion über die Planke und gaben ihm am Steg das Schwert zurück, ohne die Hand aufzuhalten. | XVIII |
 | Der Mann von der Bank | Ein Würfelspieler, den Thalion grundlos einen Falschspieler nannte und dem er den Krug umwarf, um die Wachen zu binden. Sein Name steht nirgends. | XVIII |
 
@@ -77,19 +77,24 @@ Dieses Verzeichnis führt auf, wem die Gruppe auf ihrem Weg gegenübergestanden 
 
 ## Baldurs Tor — das Haus Vanthampur in der Oberstadt
 
-*Von diesen Tagen blieben Thalion nur Splitter; was hier steht, las er in der Abschrift der Flammenden Faust nach.*
+*Von diesen Tagen blieben Thalion nur Splitter; was hier steht, las er in der Abschrift der Flammenden Faust nach und später in Boris Heft. Wo beide sich widersprechen, hält er sich an die Faust.*
 
 | Name | Wer das ist | Wo |
 |---|---|---|
-| Thalamra Vanthampur | Herzogin von Baldurs Tor. Sie hielt den Kult der Toten Drei aus ihrer eigenen Kasse und wollte die Stadt im Chaos versinken lassen, um die Herrschaft an sich zu reißen. Im Keller ihres Hauses stellte die Gruppe sie und verhinderte ihr Beschwörungsritual. Tot. | XV, XVIII, XIX |
-| Thurstwell Vanthampur | Ältester Sohn der Herzogin; überwachte das Anwesen mit Hilfe kleiner Teufel. Beim Verhör um den Schlüssel zur versiegelten Ritualstätte kam er ums Leben. Tot. | XV, XIX |
-| Thavius Kreeg | Hoher Aufseher von Elturel. Lebend im gesicherten Tresorraum gefunden, mit einer Erklärung zur Hand, die zunächst geglaubt wurde. Im Verhör gestand er den Bund mit infernalischen Mächten und seine Beteiligung am Untergang Elturels — und er kann nicht mehr beten. In Ketten. | XVIII, XIX |
-| Reya Mantlemorn | Höllenreiterin aus Elturel, beim Fall der Stadt außerhalb der Mauern. Sie war von Kreegs Unschuld überzeugt, suchte mit der Gruppe nach ihm und musste am selben Abend erfahren, wofür sie gebürgt hatte. Seit der Villa geht sie mit. | XIX |
+| Thalamra Vanthampur | Herzogin von Baldurs Tor. Sie hielt den Kult der Toten Drei aus ihrer eigenen Kasse und wollte die Stadt im Chaos versinken lassen, um die Herrschaft an sich zu reißen. Im Keller ihres Hauses stellte die Gruppe sie vor einem Altar, hinter einem Schutz, der jeden Schaden zurückwarf, und verhinderte ihr Beschwörungsritual. Boris Bolzen traf sie, als der Schutz gefallen war. Bori schreibt, ihr Leib sei zu Asche geworden und nach oben davon, mit einem Flüstern von der Hölle; die Faust schreibt: getötet. Thalion hält sich an die Faust. Tot. | XV, XVIII, XIX, XXXV |
+| Thurstwell Vanthampur | Ältester Sohn der Herzogin; überwachte das Anwesen mit Hilfe kleiner Teufel, schwach am Leib und stark in seiner Zauberei. Er griff Harlan an, brannte an dessen Hitze, und Draciar tötete ihn; bei ihm lagen der Schlüssel und die zweite Rätselbox. Tot. | XV, XIX, XXXV |
+| Thavius Kreeg | Hoher Aufseher von Elturel. Lebend im gesicherten Tresorraum gefunden, mit einer Erklärung zur Hand, die zunächst geglaubt wurde. Bori hielt ihm eine selbstgebaute Rätselbox hin: Kreeg erschrak und erkannte das Ding, bis die Attrappe sich durch ihr Leuchten verriet. Im Verhör gestand er den Bund mit infernalischen Mächten und seine Beteiligung am Untergang Elturels — und er kann nicht mehr beten. In Ketten. | XVIII, XIX, XXXV |
+| Reya Mantlemorn | Höllenreiterin aus Elturel, beim Fall der Stadt außerhalb der Mauern. Sie war schon bei der Infiltration dabei und erkannte am Gesang hinter einer schweren Tür die Messe auf Infernalisch. Sie war von Kreegs Unschuld überzeugt, suchte mit der Gruppe nach ihm und musste am selben Abend erfahren, wofür sie gebürgt hatte. Seit der Villa geht sie mit. | XIX, XXXV |
 | Liara Portyr | Trat vor die Streitmacht, die die Gruppe beim Verlassen der Villa stellte, und verhinderte das Blutvergießen. | XIX |
 | Die Streitmacht der Flammenden Faust | Stellte die Gruppe vor dem Haus. Dass eine solche Einheit in der Oberstadt aufmarschierte, wo sonst die Stadtwache steht, verwunderte die Faust selbst. | XIX |
-| Der unbekannte Spion | Bei der Durchsuchung des Hauses entdeckt. Wer er war und für wen er dort saß, sagt der Bericht nicht. | XIX |
-| Die adlige Frau im Haus | Ebenfalls bei der Durchsuchung gefunden. Der Bericht nennt keinen Namen. | XIX |
-| Schlabberlippe | Ein Tressym der Vanthampurs, der Unsichtbares sieht. Mortlock nannte ihn als möglichen Helfer — begegnet ist die Gruppe ihm in dieser Chronik nicht. | XVII |
+| Die Kultisten der Messe | Vier Verhüllte und ein Teufel mit Stacheln im Rücken, die hinter einer schweren Tür eine Messe auf Infernalisch hielten, vor einem Engel aus Stein mit leuchtenden Augen. Bori schreibt, man habe die Messe „verstummen lassen". Ihre Roben und Masken dienten danach als Tarnung. Tot. | XXXV |
+| Die zwei Wachen im Tunnel | Sahen in den Kanälen unter dem Haus Harlans Abzeichen der Faust unter der Robe und schlugen Alarm. Tot. | XXXV |
+| Die Wachen im Haus | Ließen sich von Löwengebrüll und scheppernden Türen nicht beeindrucken, wohl aber von vorgetäuschten Toten, Blutspuren und einem Beben. Geflohen. | XXXV |
+| Der Imp bei Thurstwell | Ging auf Boris Kanone los und starb daran. Tot. | XXXV |
+| Der Spion im Gefängnistrakt | Bei der Durchsuchung des Hauses entdeckt; der Bericht der Faust nennt ihn nicht. Nach Boris Heft ein Mann im Dienst Sylvira Savikas', dessen Namen Bori sich nicht merkte. Von ihm kam die Auskunft, dass sie in Candlekeep die Richtige für die Rätselbox sei. | XIX, XXXV |
+| Satiir Thione-Hhune | Die adlige Frau im Gefängnistrakt. Der Bericht der Faust nennt keinen Namen; Bori nennt ihn. | XIX, XXXV |
+| Schlabberlippe | Ein Tressym der Vanthampurs, der Unsichtbares sieht. Mortlock nannte ihn als möglichen Helfer; in der Küche der Villa kratzte er hinter der Tür und warnte danach vor den Teufeln in den unteren Ebenen. | XVII, XXXV |
+| Die Wachen der Stadt vor dem Haus | An die dreißig, die der Gruppe den Tod der Vanthampurs anhängen wollten. Zodge versuchte es mit Worten; erst Liara Portyr mit der Faust im Rücken brach es auf. | XXXV |
 
 ## Unterwegs und in Candlekeep
 
