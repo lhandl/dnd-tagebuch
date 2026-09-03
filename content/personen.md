@@ -104,7 +104,7 @@ Dieses Verzeichnis führt auf, wem die Gruppe auf ihrem Weg gegenübergestanden 
 | Der Mann in grauer Robe am Tor | Prüfte das schwarze Buch als Eintrittsgabe, blätterte hinten noch einmal, sah Thalion an und sagte nichts. Dann ging das Tor auf. | XXIV |
 | Sylvira Savikas | Tiefling und Erzmagierin in einem der Rundtürme; sie studiert die Ebenen jenseits der unseren und die Pakte mit Teufeln. Sie öffnete beide Rätselboxen, las den Vertrag aus dem Infernalischen vor und schickte die Gruppe zu Traxigor. Von ihr weiß die Gruppe, dass Elturel nicht zerstört, sondern nach Avernus geschafft wurde und dort an Ketten hängt. | XXIV |
 | Jezebel | Sylviras Vertraute, ledrig und geflügelt, kaum größer als ein Kind. Sie hockte reglos in der Ecke und drehte nur den Kopf, wenn jemand sprach. Thalion nahm die Hand nicht vom Knauf. | XXIV |
-| Thavius Kreeg | Nicht anwesend und doch der Mittelpunkt des Abends: Sein Name steht auf der letzten Platte des Vertrags, mit dem er sich Zariel unterwarf und Elturel verkaufte. | XXIV |
+| Thavius Kreeg | Nicht anwesend und doch der Mittelpunkt des Abends: Sein Name steht auf der letzten Platte des Vertrags, mit dem er sich Zariel unterwarf und Elturel verkaufte. Auf der Überfahrt fragte Thalion sich die ganze Fahrt lang nur eines: warum. | XXIV, XXVI |
 | Zariel | Fürstin von Avernus. Vor fünfzig Jahren gab sie Elturel das Licht des Gefährten und ließ sich dafür verschreiben, was unter diesem Licht liegt. Von ihrem Vertrag gibt es zwei Ausfertigungen; die zweite hält sie selbst. Gesehen hat sie niemand. | XXIV |
 | Gargauth | Das Wesen im Schild, den die Gruppe aus dem Haus der Herzogin mitbrachte; man nennt es den Verborgenen Herrn. Sylvira wollte den Schild nicht in ihrer Nähe haben: Es rede, wenn man es lasse, und es habe Zeit. Weggeschlossen, nie angehört. | XXIV |
 
@@ -112,8 +112,8 @@ Dieses Verzeichnis führt auf, wem die Gruppe auf ihrem Weg gegenübergestanden 
 
 | Name | Wer das ist | Wo |
 |---|---|---|
-| Traxigor | Erzmagier in der Gestalt eines Otters, der es dabei belässt — rückgängig machen könnte er es „selbstverständlich". Er lebt knietief im Meerwasser zwischen aufgequollenen Büchern und brachte die Gruppe über die Schwelle nach Elturel. | XXIV, XXV |
-| Lulu | Ein Wesen wie ein Elefant, nicht größer als eine Katze, mit Flügeln wie die eines Falters. Sie summt drei oder vier Töne und bricht immer an derselben Stelle ab, als fehle ihr, wie es weitergeht. Niemand hieß sie mitkommen; sie kam mit und ist seither dabei. | XXV |
+| Traxigor | Erzmagier in der Gestalt eines Otters, der es dabei belässt — rückgängig machen könnte er es „selbstverständlich". Er lebt knietief im Meerwasser zwischen aufgequollenen Büchern und brachte die Gruppe über die Schwelle nach Elturel — wie genau sie an Bord kamen, weiß Thalion nicht mehr, nur dass der Otter damit zu tun hatte. | XXIV, XXV, XXVI |
+| Lulu | Ein Wesen wie ein Elefant, nicht größer als eine Katze, mit Flügeln wie die eines Falters. Sie summt drei oder vier Töne und bricht immer an derselben Stelle ab, als fehle ihr, wie es weitergeht. Niemand hieß sie mitkommen; sie kam mit und ist seither dabei. Auf der Überfahrt hat man Thalion gesagt, dass sie nichts mehr weiß von dem, was sie war; er fragt sie nicht. | XXV, XXVI |
 
 ## Elturel — die Stadt an den Ketten
 
