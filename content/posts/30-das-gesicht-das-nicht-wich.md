@@ -5,6 +5,7 @@ draft: false
 tags: ["Elturel", "die Hohe Halle", "Zariel", "Torm", "Orden des Panzerhandschuhs"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, die Hohe Halle, auf der Empore der Kathedrale"
+orte: ["Elturel", "Die Hohe Halle"]
 stimmung: "Nüchtern, und damit nicht fertig"
 ---
 Die Halle steht.

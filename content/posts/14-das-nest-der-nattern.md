@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Elturel", "Toten Drei", "Bhaal", "Vendetta Casalanter", "Mortlock"]
 zeit: "Ches 1492 DR"
 ort: "Ein verborgener Tempelraum hinter dem Geheimgang"
+orte: ["Baldurs Tor", "Die Katakomben unter dem Badehaus"]
 stimmung: "Angewidert vom Verrat der Mächtigen"
 ---
 Der Kampf ist vorbei. Der Todeskopf des Bhaal liegt zerschmettert am Boden, besiegt durch unseren gemeinsamen Zorn und die wuchtige Keule des Mannes, den wir eigentlich für einen Feind hielten. Er heißt Mortlock Vanthampur. Sein Gesicht ist vernarbt, sein Körper massiv, doch sein Geist ist gebrochen von einer Grausamkeit, die selbst die Folterknechte des Bhaal in den Schatten stellt: Der Verrat der eigenen Familie.

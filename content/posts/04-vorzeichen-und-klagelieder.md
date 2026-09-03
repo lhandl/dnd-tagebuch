@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Elturel", "Elfenlied", "Unterstadt", "Zodge", "Rahima"]
 zeit: "Ches 1492 DR"
 ort: "Die Elfenlied-Taverne, Baldurs Tor"
+orte: ["Baldurs Tor", "Die Elfenlied-Taverne"]
 stimmung: "Wachsam, von unheilvollen Prophezeiungen begleitet"
 ---
 Unsere Jagd auf die Kultisten führte uns an einen Ort, der bezeichnend für den zwiespältigen Charakter dieser Stadt ist: Die Elfenlied-Taverne. Hauptmann Zodge schickte uns dorthin, um eine seiner Informantinnen, eine Spionin namens Tarina, aufzusuchen.

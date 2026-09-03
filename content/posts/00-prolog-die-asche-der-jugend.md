@@ -5,6 +5,7 @@ draft: false
 tags: ["Tiefwasser", "Echsensumpf", "Nebelwald"]
 zeit: "Rückblick"
 ort: "Hallen der Gerechtigkeit, Tiefwasser"
+orte: ["Tiefwasser"]
 stimmung: "Entschlossen, von Erinnerungen geplagt"
 ---
 Wir waren jung. Leichtsinnig. Hochelfen aus dem Nebelwald, die glaubten, die Welt jenseits der sicheren Baumgrenze sei nur ein weiteres, harmloses Abenteuer. Ein tödlicher Irrtum.

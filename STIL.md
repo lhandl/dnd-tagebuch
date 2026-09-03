@@ -54,9 +54,18 @@ enthält, hat seine halbe Aufgabe verfehlt.
     draft:  true
     tags:   [ort, person, thema]
     zeit:   Monat und Jahr der Spielwelt mit Jahreszählung, z. B. "Ches 1492 DR"
-    ort:    Wo der Eintrag geschrieben wurde
+    ort:    Wo der Eintrag geschrieben wurde (Freitext für die Kopfzeile)
+    orte:   ["Baldurs Tor", "Die Katakomben unter dem Badehaus"] — Register-Begriffe
+            für die Orte-Seite, ein bis zwei, aus der bestehenden Liste; ohne dieses
+            Feld fehlt der Eintrag im Register
     stimmung: Gemütslage in zwei bis drei Worten
     ---
+
+`orte` speist das Register „Orte" (Hugo-Taxonomie); `ort` ist nur Anzeige. Bestehende
+Begriffe: Tiefwasser, Soubar, Baldurs Tor, Die Elfenlied-Taverne, Die Katakomben unter dem
+Badehaus, Der Tempel des Tyr, Der Hafen von Baldurs Tor, Unterwegs nach Candlekeep, Candlekeep,
+Traxigors Turm, An Bord (zwischen den Welten), Elturel, Die Hohe Halle, Die Katakomben unter
+der Hohen Halle. Neue Begriffe sparsam und ohne ß in der Adresse (ß bleibt im Pfad stehen).
 
 `date` ist die Sortierachse und wird nie angezeigt; sichtbar ist `zeit`. Tage
 werden bewusst nicht geführt — im Spiel tragen sie nichts, und der Text sagt

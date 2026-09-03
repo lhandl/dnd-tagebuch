@@ -5,6 +5,7 @@ draft: false
 tags: ["Elturel", "die Hohe Halle", "die Katakomben", "Torm", "Pherria Jynks", "Reya Mantlemorn"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, in den Katakomben unter der Hohen Halle"
+orte: ["Elturel", "Die Katakomben unter der Hohen Halle"]
 stimmung: "Erfüllt, und ratlos darüber"
 ---
 Wir hielten eine lange Rast, ehe wir hinunterstiegen.

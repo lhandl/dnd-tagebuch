@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Oberstadt", "Toten Drei", "Myrkul", "Bane", "Bhaal"]
 zeit: "Ches 1492 DR"
 ort: "Das Heiligtum des Bane, tief unter Baldurs Tor"
+orte: ["Baldurs Tor", "Die Katakomben unter dem Badehaus"]
 stimmung: "Geschunden, schmerzerfüllt, doch eisern in der Entschlossenheit"
 ---
 Wir ließen die leere Kammer Myrkuls hinter uns und drangen noch tiefer in diesen Schlund der Verderbnis vor. Wir wählten den östlichen Gang. Mit jedem Schritt wurde die Luft stickiger. Sie war gesättigt vom süßlichen, widerlichen Geruch nach verbranntem Fleisch und dem kalten, spürbaren Willen zur absoluten Unterdrückung. Wir hatten das Heiligtum von Bane, dem Herrn der Tyrannei, betreten.

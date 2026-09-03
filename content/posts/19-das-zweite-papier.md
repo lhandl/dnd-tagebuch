@@ -5,6 +5,7 @@ draft: false
 tags: ["Bori Fizbibel", "Vanthampur", "Thalamra Vanthampur", "Thurstwell Vanthampur", "Harlan Voss", "Reya Mantlemorn", "Schlabberlippe", "Thavius Kreeg", "Satiir Thione-Hhune", "Liara Portyr", "Baldurs Tor"]
 zeit: "Ches 1492 DR"
 ort: "Dieselbe Kammer in Baldurs Tor, Boris Heft auf den Knien"
+orte: ["Baldurs Tor"]
 stimmung: "Nüchtern, und ein Satz bleibt"
 ---
 Bori schreibt ordentlich. Das hätte ich ihm nicht zugetraut.

@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Unterstadt", "Oberstadt", "Flammende Faust", "Candlekeep"]
 zeit: "Ches 1492 DR"
 ort: "Ein Haus in der Unterstadt, dort wo die Gassen zur Oberstadt ansteigen"
+orte: ["Baldurs Tor"]
 stimmung: "Still, ohne Boden unter den Füßen"
 ---
 Man zahlte uns aus. Nicht in Münzen. In Mauern.

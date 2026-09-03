@@ -5,6 +5,7 @@ draft: false
 tags: ["Elturel", "die Katakomben", "Pherria Jynks", "Torm", "Reya Mantlemorn", "Ulder Ravengard", "Thavius Kreeg"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, in den Katakomben unter der Hohen Halle"
+orte: ["Elturel", "Die Katakomben unter der Hohen Halle"]
 stimmung: "Ruhig nach außen, innen am Rechnen"
 ---
 Das Buch lag die ganze Zeit neben ihr, und ich hielt es für ein Gebetbuch.

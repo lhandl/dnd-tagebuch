@@ -5,6 +5,7 @@ draft: false
 tags: ["Elturel", "Avernus", "Zariel", "Blutkrieg", "Lulu", "Candlekeep"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, eine Gasse zwei Höfe vor der Hohen Halle"
+orte: ["Elturel"]
 stimmung: "Bestätigt, und das ist das Schlimmste"
 ---
 Ich verstehe nicht, wozu Heimlichkeit gut sein soll.

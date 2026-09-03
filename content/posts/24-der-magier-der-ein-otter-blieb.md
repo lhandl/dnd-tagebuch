@@ -5,6 +5,7 @@ draft: false
 tags: ["Traxigor", "Lulu", "Sylvira Savikas", "Candlekeep", "Elturel"]
 zeit: "Tarsakh 1492 DR"
 ort: "Ein Turm, irgendwo an der Küste"
+orte: ["Traxigors Turm"]
 stimmung: "Verwundert, und ertappt"
 ---
 Ich hörte nicht zu.

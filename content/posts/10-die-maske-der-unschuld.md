@@ -5,6 +5,7 @@ draft: false
 tags: ["Bhaal", "Rahima", "Cassia", "Fizbibel", "Ganrek", "Draciar"]
 zeit: "Ches 1492 DR"
 ort: "Der Bhaal-Trakt unter dem Badehaus"
+orte: ["Baldurs Tor", "Die Katakomben unter dem Badehaus"]
 stimmung: "Erschüttert, voller Abscheu, doch eisern"
 ---
 Wir kehrten zum Badehaus zurück. Die Tore waren verschlossen, doch wir brauchten keine diplomatischen Lösungen mehr. Cassia ließ brachiale Gewalt walten und trat die Tür mit einer Wucht ein, die Fizbibels Brecheisen in meiner Hand beinahe überflüssig machte. Es war mir nur recht – die Zeit der Vorsicht ist vorbei.

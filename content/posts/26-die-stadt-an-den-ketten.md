@@ -5,6 +5,7 @@ draft: false
 tags: ["Elturel", "Avernus", "Zariel", "der Gefährte", "Blutkrieg", "Styx", "Reya Mantlemorn", "Lulu", "Candlekeep"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, ein ausgebranntes Torhaus nahe dem Rand"
+orte: ["Elturel"]
 stimmung: "Aschig und hellwach"
 ---
 Zuerst kam der Geruch, und erst danach kam das Sehen. Heißes Eisen, verbranntes Fett, und darunter etwas Süßliches, für das ich kein Wort suche.

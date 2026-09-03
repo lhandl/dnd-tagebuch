@@ -6,6 +6,7 @@ draft: false
 tags: ["Candlekeep", "Baldurs Tor", "Das schwarze Buch", "Reya Mantlemorn"]
 zeit: "Tarsakh 1492 DR"
 ort: "Ein Lager an der Straße, zwei Tagesreisen vor Candlekeep"
+orte: ["Unterwegs nach Candlekeep"]
 stimmung: "Beharrlich, das Buch im Schoß"
 ---
 Zwölf Tage sind es von Baldurs Tor nach Candlekeep, sagt Reya. Zehn liegen hinter uns. Einen davon habe ich nicht mitgezählt, und ich weiß bis heute nicht, welchen.

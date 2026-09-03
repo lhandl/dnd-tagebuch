@@ -5,6 +5,7 @@ draft: false
 tags: ["Candlekeep", "Sylvira Savikas", "Thavius Kreeg", "Zariel", "Avernus", "Elturel", "Elturgard", "der Gefährte", "Seelenmünze", "Das schwarze Buch", "Reya Mantlemorn", "Höllenreiter", "Traxigor"]
 zeit: "Tarsakh 1492 DR"
 ort: "Candlekeep, eine Kammer für Gäste"
+orte: ["Candlekeep"]
 stimmung: "Erschüttert bis ins Mark"
 ---
 Das Tor von Candlekeep nimmt kein Gold.

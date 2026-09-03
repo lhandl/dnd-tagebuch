@@ -5,6 +5,7 @@ draft: false
 tags: ["Myrkul"]
 zeit: "Ches 1492 DR"
 ort: "Der Myrkul-Trakt der Katakomben, Baldurs Tor"
+orte: ["Baldurs Tor", "Die Katakomben unter dem Badehaus"]
 stimmung: "Kalt und unerbittlich"
 ---
 Wir wählten den südlichen Gang, jenen Pfad, der Myrkul, dem Herrn der Knochen, gewidmet ist. Allein der Name dieses falschen Gottes bringt einen fauligen Geschmack auf die Zunge.

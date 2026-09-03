@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Bhaal", "Torm", "Cassia", "Fizbibel", "Draciar"]
 zeit: "Ches 1492 DR"
 ort: "Die Folterkammern des Bhaal-Kults"
+orte: ["Baldurs Tor", "Die Katakomben unter dem Badehaus"]
 stimmung: "Grimmiger Zorn, erfüllt von tiefer Trauer"
 ---
 Unser Weg führte uns durch einen Raum voller Zombies. Armselige Kreaturen, deren Seelen in verrottendem Fleisch gefangen waren – eine Beleidigung für Torm und die natürliche Ordnung. Draciar fackelte nicht lange; sein gewaltiger Odem fegte durch ihre Reihen und vernichtete sie, noch bevor sie ihre morschen Glieder heben konnten. Es war ein kurzer Moment der Reinigung. Ich empfand keine Freude am Töten, nur die ruhige Gewissheit, dass diese armen Seelen endlich ihre Erlösung gefunden haben.

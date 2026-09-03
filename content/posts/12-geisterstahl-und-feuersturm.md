@@ -5,6 +5,7 @@ draft: false
 tags: ["Fizbibel", "Ganrek", "Draciar"]
 zeit: "Ches 1492 DR"
 ort: "Die tieferen Gewölbe des Bhaal-Heiligtums"
+orte: ["Baldurs Tor", "Die Katakomben unter dem Badehaus"]
 stimmung: "Angespannt, doch zunehmend koordiniert"
 ---
 Wir dringen tiefer in diese Eingeweide der Stadt vor, und die Nerven liegen blank. Man sollte meinen, dass der ständige Hauch des Todes meine Gefährten zur Vorsicht mahnt, doch Draciar bewies heute das Gegenteil. In einem der Räume stieß er auf einen offenen Sarkophag und konnte – wie ein neugieriges Kind oder ein ungeduldiger Gnom – seine Hände nicht bei sich behalten.

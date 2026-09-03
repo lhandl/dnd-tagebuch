@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Die Tiefe Laterne", "Amrik", "Vanthampur", "Laraelra Thundreth", "Thavius Kreeg"]
 zeit: "Ches 1492 DR"
 ort: "Am Kai, die Lichter der Tiefen Laterne im Rücken"
+orte: ["Baldurs Tor", "Der Hafen von Baldurs Tor"]
 stimmung: "Zornig und beschmutzt"
 ---
 Ich gab mein Schwert einem Mann mit fettigen Fingern.

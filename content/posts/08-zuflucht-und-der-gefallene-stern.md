@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Elturel", "Elfenlied", "Toten Drei", "Bane", "Tyr"]
 zeit: "Ches 1492 DR"
 ort: "Der Tempel des Tyr, Baldurs Tor"
+orte: ["Baldurs Tor", "Der Tempel des Tyr"]
 stimmung: "Körperlich genesend, doch geistig zutiefst beunruhigt"
 ---
 Wir schleppten uns durch die düsteren Gassen von Baldurs Tor, unsere Schritte schwer, bis wir schließlich die heiligen Hallen des Tyr-Tempels erreichten. Was für ein Kontrast zu dem Unrat, der uns unter dem Badehaus umgeben hatte. Fizbibel, unser pragmatischer und manchmal anstrengend erfinderischer Gnom, machte keinen Hehl aus seiner Enttäuschung. Er hätte es vorgezogen, sich direkt in seine staubige Werkstatt zu verkriechen. Doch ich wusste, dass wir den Segen und die Sicherheit geweihter Mauern brauchten.

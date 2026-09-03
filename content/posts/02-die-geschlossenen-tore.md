@@ -5,6 +5,7 @@ draft: false
 tags: ["Soubar", "Baldurs Tor", "Elturel", "Elturgard", "Echsensumpf", "Basilisken-Tor"]
 zeit: "Ches 1492 DR"
 ort: "Hinterzimmer der Flammenden Faust, Baldurs Tor"
+orte: ["Baldurs Tor"]
 stimmung: "Angewidert, in meiner Ehre gekränkt"
 ---
 Der Ritt entlang des Chionthar war eine einzige Prozession des Elends. Was Gerret in Soubar befürchtet hatte, war längst grausame Realität geworden. Die Straßen waren verstopft mit Flüchtlingen aus Elturgard. Bauern, Händler, Soldaten – sie alle flohen vor dem aschfahlen Nebel, der Elturel verschluckt hat. In ihren Augen sah ich dieselbe nackte Panik, die ich damals im Echsensumpf verspürt hatte. Ich gab die Hälfte meiner Rationen an die Verzweifelten vor den Mauern. Es war kaum mehr als ein Tropfen auf den heißen Stein, doch mehr lag in diesem Moment nicht in meiner Macht.

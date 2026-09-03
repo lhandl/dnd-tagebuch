@@ -5,6 +5,7 @@ draft: false
 tags: ["Elturel", "die Hohe Halle", "Höllenhunde", "Avernus"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, ein leerer Hof unweit der Hohen Halle"
+orte: ["Elturel"]
 stimmung: "Atemlos, und nicht stolz"
 ---
 Zwei Hunde standen vor dem Tor. Ich sage zwei, weil ich zwei sah.

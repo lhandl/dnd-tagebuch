@@ -5,6 +5,7 @@ draft: false
 tags: ["Elturel", "die Hohe Halle", "die Katakomben", "Selern Obranch", "Victuusa"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, die Hohe Halle, im Schiff der Kathedrale"
+orte: ["Elturel", "Die Hohe Halle"]
 stimmung: "Zornig, und ohne Zweifel"
 ---
 Nach dem zweiten Hund stand ich eine Weile und bekam nur Luft.

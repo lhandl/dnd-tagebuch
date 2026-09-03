@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Toten Drei", "Myrkul", "Bane", "Bhaal", "Torm"]
 zeit: "Ches 1492 DR"
 ort: "Die schmalen Gassen der Unterstadt"
+orte: ["Baldurs Tor"]
 stimmung: "Zornig, mit sich selbst ringend"
 ---
 Wir verließen das Badehaus. Bevor wir diesen Ort der Verdammnis endgültig hinter uns ließen, tat ich, was mein Gewissen forderte. Die Statuen der Toten Drei – Bhaal, Bane und Myrkul – standen dort in ihrer kalten, steinernen Pracht. Ich legte all meinen Zorn in meine Arme und brachte diese blasphemischen Götzen zu Fall. Sie zersplitterten auf dem schmutzigen Boden. Wo Stein war, ist nun nur noch Staub – ein Symbol für das Ende ihrer Herrschaft hier unten.

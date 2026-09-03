@@ -5,6 +5,7 @@ draft: false
 tags: ["Traxigor", "Lulu", "Thavius Kreeg", "Zariel", "Avernus", "Elturel"]
 zeit: "Tarsakh 1492 DR"
 ort: "Unter Deck, und die letzten Zeilen am Fuß des Seils"
+orte: ["An Bord, zwischen den Welten"]
 stimmung: "Versunken, ohne Antwort"
 ---
 Es roch nach Teer, nach Hanf, nach feuchtem Holz. Es fehlte das Salz.

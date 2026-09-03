@@ -5,6 +5,7 @@ draft: false
 tags: ["Elturel", "die Hohe Halle", "Höllenhunde", "Draciar Gomrul", "Nebelwald"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, die Hohe Halle, im Schiff der Kathedrale"
+orte: ["Elturel", "Die Hohe Halle"]
 stimmung: "Erschüttert, und nicht vom Hund"
 ---
 Die Bank steht, wie sie stand. Hinunter ging ich dann nicht.

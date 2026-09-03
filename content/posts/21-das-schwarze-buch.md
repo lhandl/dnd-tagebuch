@@ -6,6 +6,7 @@ draft: false
 tags: ["Baldurs Tor", "Das schwarze Buch", "Bhaal", "Vanthampur", "Thavius Kreeg"]
 zeit: "Ches 1492 DR"
 ort: "Ein Zimmer in Baldurs Tor"
+orte: ["Baldurs Tor"]
 stimmung: "Wachsam, mit unreinen Händen"
 ---
 Das Buch riecht nach nichts.

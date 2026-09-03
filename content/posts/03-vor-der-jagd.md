@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Echsensumpf"]
 zeit: "Ches 1492 DR"
 ort: "Die dunklen Gassen von Baldurs Tor"
+orte: ["Baldurs Tor"]
 stimmung: "Brennend vor gerechtem Zorn"
 ---
 Kultisten.

@@ -5,6 +5,7 @@ draft: false
 tags: ["Soubar", "Baldurs Tor", "Elturel", "Gerret", "Chult"]
 zeit: "Ches 1492 DR"
 ort: "Eine Schenke im Dorf Soubar"
+orte: ["Soubar"]
 stimmung: "Wachsam, von düsterer Vorahnung erfüllt"
 ---
 Der 25. Ches, im Frühling des Jahres 1492. Die Welt dachte, sie hätte nach dem Fluch des Todes, der vor genau einem Jahr aus Chult über uns hereinbrach und die Wiederbelebten dahinraffte, endlich Frieden gefunden. Narren. Das Böse schläft nie, es wartet nur in den Schatten darauf, dass wir unsere Klingen senken.

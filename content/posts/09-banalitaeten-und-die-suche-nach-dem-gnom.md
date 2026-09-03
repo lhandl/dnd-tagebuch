@@ -5,6 +5,7 @@ draft: false
 tags: ["Flammende Faust", "Tyr", "Cassia", "Fizbibel", "Jordanus", "Händlerviertel"]
 zeit: "Ches 1492 DR"
 ort: "Das Händlerviertel, Baldurs Tor"
+orte: ["Baldurs Tor"]
 stimmung: "Geduldig, aber mit wachsender Dringlichkeit"
 ---
 Zwei volle Tage mussten wir im schützenden Schatten des Tyr-Tempels verweilen, bis Cassia wieder vollständig genesen war. Während ich die Stunden damit verbrachte, mit Hohepriester Jordanus über gefallene Engel und die Verderbnis hoher Kleriker zu philosophieren, suchten meine Gefährten die Bibliotheken auf. Ich bezweifle jedoch stark, dass sie dort nach theologischen Antworten suchten; vermutlich waren es eher Kochrezepte oder triviale Abhandlungen über die Anatomie von Riesenratten.

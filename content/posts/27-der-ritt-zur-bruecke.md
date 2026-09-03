@@ -5,6 +5,7 @@ draft: false
 tags: ["Elturel", "Avernus", "Eid der Rache", "Hallen der Gerechtigkeit", "Torm"]
 zeit: "Tarsakh 1492 DR"
 ort: "Elturel, jenseits des Spalts"
+orte: ["Elturel"]
 stimmung: "Aufrecht, und darüber unruhig"
 ---
 Ich rief, und es kam.

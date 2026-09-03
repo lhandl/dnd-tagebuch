@@ -5,6 +5,7 @@ draft: false
 tags: ["Oberstadt", "Tyr", "Vendetta Casalanter", "Mortlock", "Vanthampur", "Schlabberlippe"]
 zeit: "Ches 1492 DR"
 ort: "Der Tempel des Tyr / Vor den Toren der Oberstadt"
+orte: ["Baldurs Tor", "Der Tempel des Tyr"]
 stimmung: "Erfüllt von heiliger Pflicht und grimmiger Entschlossenheit"
 ---
 Trotz der demütigenden Begegnung in der Gasse erreichten wir schließlich die Sicherheit der geweihten Hallen. Wir übergaben Vendetta Casalanter den Klerikern des Tyr. Es war eine notwendige Geste der Menschlichkeit; in einer Stadt, die ihre Seele an das Chaos verliert, müssen wir jene beschützen, die noch im Licht wandeln.

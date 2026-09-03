@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Elturel", "Toten Drei", "Bhaal", "Ganrek", "Lilli"]
 zeit: "Ches 1492 DR"
 ort: "Der Bhaal-Trakt, tief unter dem Badehaus"
+orte: ["Baldurs Tor", "Die Katakomben unter dem Badehaus"]
 stimmung: "Pragmatisch, doch voller elfischer Befremdung"
 ---
 Nach dem Kampf gegen die abscheuliche Lilli blieb die Luft in den Tunneln des Bhaal-Trakts schwer und unheilvoll. Wir hatten das schwarze Buch und den Schlüssel – Instrumente einer Macht, die wir noch nicht vollends begreifen. Doch während ich das Gewicht dieser unheiligen Beute prüfte, bot sich mir ein Anblick, der mir einmal mehr vor Augen führte, was für eine... bunte Truppe ich hier begleite.

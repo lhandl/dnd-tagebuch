@@ -5,6 +5,7 @@ draft: false
 tags: ["Baldurs Tor", "Toten Drei", "Myrkul", "Bane", "Bhaal", "Tarina"]
 zeit: "Ches 1492 DR"
 ort: "Die Katakomben unter dem Badehaus, Baldurs Tor"
+orte: ["Baldurs Tor", "Die Katakomben unter dem Badehaus"]
 stimmung: "Angewidert, doch erfüllt vom Rausch der Gerechtigkeit"
 ---
 Ein Badehaus. Die feine Gesellschaft von Baldurs Tor kommt hierher, um sich den Staub der Straßen von der Haut waschen zu lassen, um in parfümiertem Wasser zu entspannen, blind für das, was direkt unter ihren nackten Füßen lauert. Die Ironie ist geradezu schmerzhaft. Oben die Illusion von Reinheit, unten der absolute, stinkende Verfall.

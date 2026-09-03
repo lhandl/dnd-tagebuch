@@ -5,6 +5,7 @@ draft: false
 tags: ["Flammende Faust", "Thavius Kreeg", "Vanthampur", "Liara Portyr", "Reya Mantlemorn", "Elturel", "Candlekeep"]
 zeit: "Ches 1492 DR"
 ort: "Eine Kammer in Baldurs Tor, eine Abschrift der Flammenden Faust vor mir"
+orte: ["Baldurs Tor"]
 stimmung: "Beschämt und hellwach"
 ---
 Was hier steht, ist nicht von meiner Hand.
